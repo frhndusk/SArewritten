@@ -5,7 +5,7 @@ function createVehicleForPlayer(player, command, model)
     local x, y, z = getElementPosition(player)
     local rotX, rotY, rotZ = getElementRotation(player)
     y = y + 5
-    x = x + 5
+    rotZ = rotZ + 90
 
     dbExec(db, 'INSERT INTO vehicles (model, x, y, z, rotX, rotY, rotZ) VALUES (?, ?, ?, ?, ?, ?, ?)', model, x, y, z, rotX, rotY, rotZ)
     
@@ -33,8 +33,8 @@ function loadAllVehicles(queryHandle)
     local results = dbPoll(queryHandle, 0)
 
     for index, vehicle in pairs(results) do
-        local vehicleObject = createVehicle(vehicle.model, vehicle.x, vehicle.y, vehicle.z)
-        setElementRotation(vehicleObject, vehicle.rotX, vehicle.rotY, vehicle.rotZ)
+        local vehicleObject = createVehicle(vehicle.model, vehicle.x, vehicle.y, vehicle.z, vehicle.rotX, vehicle.rotY, vehicle.rotZ)
+        
         setElementData(vehicleObject, "id", vehicle.id)
     end    
     

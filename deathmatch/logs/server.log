@@ -1560,3 +1560,1838 @@ Port 22005 TCP is open.
 [2020-07-02 00:49:44] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
 [2020-07-02 00:49:44] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
 [2020-07-02 00:49:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 15:42:46] Compacting accounts database 'internal.db' ...
+[2020-07-02 15:42:46] Resources: 3 loaded, 0 failed
+[2020-07-02 15:42:46] Compacting database 'registry.db' ...
+[2020-07-02 15:42:47] Starting resources....
+[2020-07-02 15:42:47] SCRIPT ERROR: players\authentication.lua:10: 'then' expected near 'return'
+[2020-07-02 15:42:47] ERROR: Loading script failed: players\authentication.lua:10: 'then' expected near 'return'
+[2020-07-02 15:42:47] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 15:42:47] WARNING: <owner_email_address> not set
+[2020-07-02 15:42:47] Server started and is ready to accept connections!
+[2020-07-02 15:42:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 15:42:47] Type 'help' for a list of commands.
+[2020-07-02 15:42:47] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+Testing ports...
+Port 22126 UDP is open.
+Port 22003 UDP is open.
+Port 22005 TCP is open.
+[2020-07-02 15:44:18] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 15:44:18] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 15:44:26] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 15:44:54] restart: Requested by Console
+[2020-07-02 15:44:54] restart: Resource restarting...
+[2020-07-02 15:44:54] Stopping players
+[2020-07-02 15:44:54] Starting players
+[2020-07-02 15:44:54] SCRIPT ERROR: players\authentication.lua:10: 'then' expected near 'return'
+[2020-07-02 15:44:54] ERROR: Loading script failed: players\authentication.lua:10: 'then' expected near 'return'
+[2020-07-02 15:44:54] players restarted successfully
+[2020-07-02 15:45:19] restart: Requested by Console
+[2020-07-02 15:45:19] restart: Resource restarting...
+[2020-07-02 15:45:19] Stopping players
+[2020-07-02 15:45:19] Resource 'players' changed, reloading and starting
+[2020-07-02 15:45:19] Starting players
+[2020-07-02 15:45:19] SCRIPT ERROR: players\authentication.lua:24: unexpected symbol near '['
+[2020-07-02 15:45:19] ERROR: Loading script failed: players\authentication.lua:24: unexpected symbol near '['
+[2020-07-02 15:45:19] players restarted successfully
+[2020-07-02 15:45:46] restart: Requested by Console
+[2020-07-02 15:45:46] restart: Resource restarting...
+[2020-07-02 15:45:46] Stopping players
+[2020-07-02 15:45:46] Resource 'players' changed, reloading and starting
+[2020-07-02 15:45:46] Starting players
+[2020-07-02 15:45:46] SCRIPT ERROR: players\authentication.lua:24: unexpected symbol near '['
+[2020-07-02 15:45:46] ERROR: Loading script failed: players\authentication.lua:24: unexpected symbol near '['
+[2020-07-02 15:45:46] players restarted successfully
+[2020-07-02 15:46:29] restart: Requested by Console
+[2020-07-02 15:46:29] restart: Resource restarting...
+[2020-07-02 15:46:29] Stopping players
+[2020-07-02 15:46:29] Resource 'players' changed, reloading and starting
+[2020-07-02 15:46:29] Starting players
+[2020-07-02 15:46:29] players restarted successfully
+[2020-07-02 15:46:52] ERROR: players\authentication.lua:26: attempt to call global 'addAcount' (a nil value)
+[2020-07-02 15:50:53] ERROR: players\authentication.lua:26: attempt to call global 'addAcount' (a nil value)
+[2020-07-02 15:54:17] restart: Requested by Console
+[2020-07-02 15:54:17] restart: Resource restarting...
+[2020-07-02 15:54:17] Stopping players
+[2020-07-02 15:54:17] Resource 'players' changed, reloading and starting
+[2020-07-02 15:54:17] Starting players
+[2020-07-02 15:54:17] players restarted successfully
+[2020-07-02 15:54:25] ERROR: players\authentication.lua:24: attempt to call global 'addAcount' (a nil value)
+[2020-07-02 15:55:11] restart: Requested by Console
+[2020-07-02 15:55:11] restart: Resource restarting...
+[2020-07-02 15:55:11] Stopping players
+[2020-07-02 15:55:11] Resource 'players' changed, reloading and starting
+[2020-07-02 15:55:11] Starting players
+[2020-07-02 15:55:11] players restarted successfully
+[2020-07-02 16:15:33] restart: Requested by Console
+[2020-07-02 16:15:33] restart: Resource restarting...
+[2020-07-02 16:15:33] Stopping players
+[2020-07-02 16:15:33] Resource 'players' changed, reloading and starting
+[2020-07-02 16:15:33] Starting players
+[2020-07-02 16:15:33] SCRIPT ERROR: players\authentication.lua:48: unexpected symbol near ')'
+[2020-07-02 16:15:33] ERROR: Loading script failed: players\authentication.lua:48: unexpected symbol near ')'
+[2020-07-02 16:15:33] players restarted successfully
+[2020-07-02 16:15:57] restart: Requested by Console
+[2020-07-02 16:15:57] restart: Resource restarting...
+[2020-07-02 16:15:57] Stopping players
+[2020-07-02 16:15:57] Resource 'players' changed, reloading and starting
+[2020-07-02 16:15:57] Starting players
+[2020-07-02 16:15:57] players restarted successfully
+[2020-07-02 16:16:19] WARNING: players\authentication.lua:48: Bad argument @ 'getAccountData' [Expected account at argument 1, got string 'hashed_password']
+[2020-07-02 16:16:19] WARNING: players\authentication.lua:49: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-07-02 16:18:33] restart: Requested by Console
+[2020-07-02 16:18:33] restart: Resource restarting...
+[2020-07-02 16:18:33] Stopping players
+[2020-07-02 16:18:33] Resource 'players' changed, reloading and starting
+[2020-07-02 16:18:33] Starting players
+[2020-07-02 16:18:33] players restarted successfully
+[2020-07-02 16:18:45] LOGIN: (Everyone) PostmanPat successfully logged in as 'testaccount' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 16:22:46] restart: Requested by Console
+[2020-07-02 16:22:46] restart: Resource restarting...
+[2020-07-02 16:22:46] Stopping players
+[2020-07-02 16:22:46] Resource 'players' changed, reloading and starting
+[2020-07-02 16:22:46] Starting players
+[2020-07-02 16:22:46] players restarted successfully
+[2020-07-02 16:24:53] restart: Requested by Console
+[2020-07-02 16:24:53] restart: Resource restarting...
+[2020-07-02 16:24:53] Stopping players
+[2020-07-02 16:24:53] Resource 'players' changed, reloading and starting
+[2020-07-02 16:24:53] Starting players
+[2020-07-02 16:24:53] players restarted successfully
+[2020-07-02 16:24:58] LOGOUT: PostmanPat logged out as 'testaccount'
+[2020-07-02 16:25:20] LOGIN: (Everyone) PostmanPat successfully logged in as 'testaccount' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 16:25:24] LOGOUT: PostmanPat logged out as 'testaccount'
+[2020-07-02 16:37:36] Server stopped!
+[2020-07-02 16:37:36] Stopping resources.....
+[2020-07-02 16:37:36] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 16:37:36] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 16:37:36] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 16:37:36] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 16:56:12] Resources: 4 loaded, 0 failed
+[2020-07-02 16:56:12] Starting resources.......
+[2020-07-02 16:56:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 16:56:12] WARNING: <owner_email_address> not set
+[2020-07-02 16:56:12] Server started and is ready to accept connections!
+[2020-07-02 16:56:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 16:56:12] Type 'help' for a list of commands.
+[2020-07-02 16:56:12] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 16:56:27] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 16:56:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 16:56:27] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 16:57:21] * Syntax: restart <resource-name>
+[2020-07-02 16:57:25] restart: Requested by Console
+[2020-07-02 16:57:25] restart: Resource restarting...
+[2020-07-02 16:57:25] Stopping players
+[2020-07-02 16:57:25] Starting players
+[2020-07-02 16:57:25] players restarted successfully
+[2020-07-02 16:57:36] start: Requested by Console
+[2020-07-02 16:57:36] start: Resource is already running
+[2020-07-02 16:57:39] restart: Requested by Console
+[2020-07-02 16:57:39] restart: Resource restarting...
+[2020-07-02 16:57:39] Stopping admin
+[2020-07-02 16:57:39] Starting admin
+[2020-07-02 16:57:39] admin restarted successfully
+[2020-07-02 16:59:04] restart: Requested by Console
+[2020-07-02 16:59:04] restart: Resource restarting...
+[2020-07-02 16:59:04] Stopping admin
+[2020-07-02 16:59:04] Starting admin
+[2020-07-02 16:59:04] admin restarted successfully
+[2020-07-02 16:59:06] Server stopped!
+[2020-07-02 16:59:06] Stopping resources......
+[2020-07-02 16:59:06] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 16:59:06] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 16:59:06] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 16:59:06] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 16:59:10] Resources: 4 loaded, 0 failed
+[2020-07-02 16:59:10] Starting resources.......
+[2020-07-02 16:59:10] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 16:59:10] WARNING: <owner_email_address> not set
+[2020-07-02 16:59:10] Server started and is ready to accept connections!
+[2020-07-02 16:59:10] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 16:59:10] Type 'help' for a list of commands.
+[2020-07-02 16:59:10] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 16:59:21] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 16:59:21] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 16:59:21] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 16:59:34] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'testaccount' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 16:59:40] ACL: admin: Object 'user.testaccount' removed from group 'Admin'
+[2020-07-02 16:59:40] ACL: admin: Object 'user.testaccount' added to group 'Moderator'
+[2020-07-02 17:03:38] restart: Resource could not be found
+[2020-07-02 17:03:41] Server stopped!
+[2020-07-02 17:03:41] Stopping resources......
+[2020-07-02 17:03:41] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 17:03:41] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 17:03:41] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 17:03:41] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 17:04:36] Resources: 4 loaded, 0 failed
+[2020-07-02 17:04:36] Starting resources.......
+[2020-07-02 17:04:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 17:04:36] WARNING: <owner_email_address> not set
+[2020-07-02 17:04:36] Server started and is ready to accept connections!
+[2020-07-02 17:04:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 17:04:36] Type 'help' for a list of commands.
+[2020-07-02 17:04:36] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 17:04:47] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 17:04:47] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 17:04:47] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 17:05:23] LOGIN: (Everyone) PostmanPat successfully logged in as 'lmaoo' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 17:06:57] LOGOUT: PostmanPat logged out as 'lmaoo'
+[2020-07-02 17:07:04] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'testaccount' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 17:07:11] ACL: admin: Object 'user.testaccount' removed from group 'Admin'
+[2020-07-02 17:07:11] ACL: admin: Object 'user.testaccount' added to group 'Moderator'
+[2020-07-02 17:07:56] Server stopped!
+[2020-07-02 17:07:56] Stopping resources......
+[2020-07-02 17:07:56] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 17:07:56] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 17:07:56] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 17:07:56] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 17:07:59] Resources: 4 loaded, 0 failed
+[2020-07-02 17:07:59] Starting resources.......
+[2020-07-02 17:07:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 17:07:59] WARNING: <owner_email_address> not set
+[2020-07-02 17:07:59] Server started and is ready to accept connections!
+[2020-07-02 17:07:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 17:07:59] Type 'help' for a list of commands.
+[2020-07-02 17:07:59] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 17:08:09] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 17:08:09] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 17:08:09] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 17:08:17] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'testaccount' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 17:08:44] ACL: admin: Object 'user.testaccount' removed from group 'Admin'
+[2020-07-02 17:08:44] ACL: admin: Object 'user.testaccount' added to group 'Moderator'
+[2020-07-02 17:24:00] restart: Requested by Console
+[2020-07-02 17:24:00] restart: Resource restarting...
+[2020-07-02 17:24:00] Stopping admin
+[2020-07-02 17:24:00] Resource 'admin' changed, reloading and starting
+[2020-07-02 17:24:00] Starting admin
+[2020-07-02 17:24:00] SCRIPT ERROR: admin\admin.lua:40: ')' expected (to close '(' at line 39) near 'if'
+[2020-07-02 17:24:00] ERROR: Loading script failed: admin\admin.lua:40: ')' expected (to close '(' at line 39) near 'if'
+[2020-07-02 17:24:01] admin restarted successfully
+[2020-07-02 17:24:21] restart: Resource could not be found
+[2020-07-02 17:24:24] restart: Requested by Console
+[2020-07-02 17:24:24] restart: Resource restarting...
+[2020-07-02 17:24:24] Stopping admin
+[2020-07-02 17:24:24] Resource 'admin' changed, reloading and starting
+[2020-07-02 17:24:24] Starting admin
+[2020-07-02 17:24:24] admin restarted successfully
+[2020-07-02 17:26:06] WARNING: admin\admin.lua:55: Bad argument @ 'aclSetRight' [Expected bool at argument 3, got string 'false']
+[2020-07-02 17:27:24] restart: Resource could not be found
+[2020-07-02 17:27:27] restart: Requested by Console
+[2020-07-02 17:27:27] restart: Resource restarting...
+[2020-07-02 17:27:27] Stopping admin
+[2020-07-02 17:27:27] Resource 'admin' changed, reloading and starting
+[2020-07-02 17:27:27] Starting admin
+[2020-07-02 17:27:27] admin restarted successfully
+[2020-07-02 17:29:02] restart: Requested by Console
+[2020-07-02 17:29:02] restart: Resource restarting...
+[2020-07-02 17:29:02] Stopping admin
+[2020-07-02 17:29:02] Resource 'admin' changed, reloading and starting
+[2020-07-02 17:29:02] Starting admin
+[2020-07-02 17:29:02] admin restarted successfully
+[2020-07-02 17:37:35] restart: Requested by Console
+[2020-07-02 17:37:35] restart: Resource restarting...
+[2020-07-02 17:37:35] Stopping admin
+[2020-07-02 17:37:35] Resource 'admin' changed, reloading and starting
+[2020-07-02 17:37:35] Starting admin
+[2020-07-02 17:37:35] admin restarted successfully
+[2020-07-02 17:37:41] LOGOUT: PostmanPat logged out as 'testaccount'
+[2020-07-02 17:38:12] LOGIN: (Everyone) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 17:42:18] restart: Requested by Console
+[2020-07-02 17:42:18] restart: Resource restarting...
+[2020-07-02 17:42:18] Stopping admin
+[2020-07-02 17:42:18] Starting admin
+[2020-07-02 17:42:18] admin restarted successfully
+[2020-07-02 17:42:32] restart: Requested by Console
+[2020-07-02 17:42:32] restart: Resource restarting...
+[2020-07-02 17:42:32] Stopping players
+[2020-07-02 17:42:32] Resource 'players' changed, reloading and starting
+[2020-07-02 17:42:32] Starting players
+[2020-07-02 17:42:32] players restarted successfully
+[2020-07-02 17:44:54] Server stopped!
+[2020-07-02 17:44:54] Stopping resources......
+[2020-07-02 17:44:54] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 17:44:54] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 17:44:54] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 17:44:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 17:44:56] Resources: 4 loaded, 0 failed
+[2020-07-02 17:44:56] Starting resources.......
+[2020-07-02 17:44:56] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 17:44:56] WARNING: <owner_email_address> not set
+[2020-07-02 17:44:56] Server started and is ready to accept connections!
+[2020-07-02 17:44:56] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 17:44:56] Type 'help' for a list of commands.
+[2020-07-02 17:44:56] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 17:45:07] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 17:45:07] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 17:45:07] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 17:45:19] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 17:46:54] ACL: admin: Object 'user.TestUser' removed from group 'Admin'
+[2020-07-02 17:46:54] ACL: admin: Object 'user.TestUser' added to group 'Moderator'
+[2020-07-02 17:49:24] Server stopped!
+[2020-07-02 17:49:24] Stopping resources......
+[2020-07-02 17:49:24] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 17:49:24] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 17:49:24] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 17:49:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 17:49:26] Resources: 4 loaded, 0 failed
+[2020-07-02 17:49:26] Starting resources.......
+[2020-07-02 17:49:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 17:49:26] WARNING: <owner_email_address> not set
+[2020-07-02 17:49:26] Server started and is ready to accept connections!
+[2020-07-02 17:49:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 17:49:26] Type 'help' for a list of commands.
+[2020-07-02 17:49:26] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 17:49:35] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 17:49:35] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 17:49:35] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 17:50:14] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 17:50:30] ACL: admin: Object 'user.TestUser' removed from group 'Admin'
+[2020-07-02 17:50:30] ACL: admin: Object 'user.TestUser' added to group 'Admin'
+[2020-07-02 17:57:30] restart: Requested by Console
+[2020-07-02 17:57:30] restart: Resource restarting...
+[2020-07-02 17:57:30] Stopping admin
+[2020-07-02 17:57:30] Starting admin
+[2020-07-02 17:57:30] admin restarted successfully
+[2020-07-02 18:05:12] restart: Resource could not be found
+[2020-07-02 18:05:21] restart: Requested by Console
+[2020-07-02 18:05:21] restart: Resource restarting...
+[2020-07-02 18:05:21] Stopping admin
+[2020-07-02 18:05:21] Starting admin
+[2020-07-02 18:05:21] admin restarted successfully
+[2020-07-02 18:05:24] Server stopped!
+[2020-07-02 18:05:24] Stopping resources......
+[2020-07-02 18:05:24] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 18:05:24] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 18:05:24] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 18:05:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 18:11:01] Resources: 4 loaded, 0 failed
+[2020-07-02 18:11:01] Starting resources.......
+[2020-07-02 18:11:01] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 18:11:01] WARNING: <owner_email_address> not set
+[2020-07-02 18:11:01] Server started and is ready to accept connections!
+[2020-07-02 18:11:01] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 18:11:01] Type 'help' for a list of commands.
+[2020-07-02 18:11:01] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 18:28:35] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 18:28:35] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 18:28:43] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 18:29:11] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 18:30:53] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 18:30:53] Stopping admin
+[2020-07-02 18:30:53] Starting admin
+[2020-07-02 18:30:53] admin restarted successfully
+[2020-07-02 18:31:03] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 18:31:03] Stopping vehicles
+[2020-07-02 18:31:03] Starting vehicles
+[2020-07-02 18:31:03] vehicles restarted successfully
+[2020-07-02 18:36:06] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 18:36:06] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 18:36:18] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 18:36:18] Stopping vehicles
+[2020-07-02 18:36:18] Resource 'vehicles' changed, reloading and starting
+[2020-07-02 18:36:18] Starting vehicles
+[2020-07-02 18:36:18] vehicles restarted successfully
+[2020-07-02 18:36:28] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 18:36:28] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 18:38:43] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 18:41:06] WARNING: vehicles\vehicles.lua:14: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-02 18:41:36] WARNING: vehicles\vehicles.lua:14: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-02 19:28:04] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:28:09] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:28:21] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 19:28:21] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 19:28:38] ACL: Denied 'PostmanPat' access to command 'restart'
+[2020-07-02 19:28:53] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 19:28:59] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 19:28:59] Stopping vehicles
+[2020-07-02 19:28:59] Resource 'vehicles' changed, reloading and starting
+[2020-07-02 19:28:59] Starting vehicles
+[2020-07-02 19:28:59] vehicles restarted successfully
+[2020-07-02 19:29:14] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 19:29:14] Stopping vehicles
+[2020-07-02 19:29:14] Starting vehicles
+[2020-07-02 19:29:14] vehicles restarted successfully
+[2020-07-02 19:29:29] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 19:29:29] Stopping vehicles
+[2020-07-02 19:29:29] Starting vehicles
+[2020-07-02 19:29:29] vehicles restarted successfully
+[2020-07-02 19:29:36] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 19:29:36] Stopping vehicles
+[2020-07-02 19:29:36] Starting vehicles
+[2020-07-02 19:29:36] vehicles restarted successfully
+[2020-07-02 19:29:41] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 19:29:41] Stopping vehicles
+[2020-07-02 19:29:41] Starting vehicles
+[2020-07-02 19:29:41] vehicles restarted successfully
+[2020-07-02 19:29:43] stop: Requested by PostmanPat(TestUser)
+[2020-07-02 19:29:43] Stopping vehicles
+[2020-07-02 19:29:46] start: Requested by PostmanPat(TestUser)
+[2020-07-02 19:29:46] Starting vehicles
+[2020-07-02 19:30:02] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 19:30:02] Stopping vehicles
+[2020-07-02 19:30:02] Starting vehicles
+[2020-07-02 19:30:02] vehicles restarted successfully
+[2020-07-02 19:30:10] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 19:30:10] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 19:33:24] WARNING: vehicles\vehicles.lua:14: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-02 19:35:14] WARNING: vehicles\vehicles.lua:14: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-02 19:36:18] restart: Requested by Console
+[2020-07-02 19:36:18] restart: Resource restarting...
+[2020-07-02 19:36:18] Stopping players
+[2020-07-02 19:36:18] Resource 'players' changed, reloading and starting
+[2020-07-02 19:36:18] Starting players
+[2020-07-02 19:36:18] SCRIPT ERROR: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:36:18] ERROR: Loading script failed: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:36:18] players restarted successfully
+[2020-07-02 19:36:24] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:36:29] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:36:29] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:37:44] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:37:46] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:37:46] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:38:03] restart: Requested by Console
+[2020-07-02 19:38:03] restart: Resource restarting...
+[2020-07-02 19:38:03] Stopping players
+[2020-07-02 19:38:03] Resource 'players' changed, reloading and starting
+[2020-07-02 19:38:03] Starting players
+[2020-07-02 19:38:03] SCRIPT ERROR: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:38:03] ERROR: Loading script failed: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:38:03] players restarted successfully
+[2020-07-02 19:40:32] restart: Requested by Console
+[2020-07-02 19:40:32] restart: Resource restarting...
+[2020-07-02 19:40:32] Stopping players
+[2020-07-02 19:40:32] Resource 'players' changed, reloading and starting
+[2020-07-02 19:40:32] Starting players
+[2020-07-02 19:40:32] SCRIPT ERROR: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:40:32] ERROR: Loading script failed: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:40:32] players restarted successfully
+[2020-07-02 19:40:54] restart: Requested by Console
+[2020-07-02 19:40:54] restart: Resource restarting...
+[2020-07-02 19:40:54] Stopping players
+[2020-07-02 19:40:54] Starting players
+[2020-07-02 19:40:54] SCRIPT ERROR: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:40:54] ERROR: Loading script failed: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:40:54] players restarted successfully
+[2020-07-02 19:41:23] restart: Requested by Console
+[2020-07-02 19:41:23] restart: Resource restarting...
+[2020-07-02 19:41:23] Stopping players
+[2020-07-02 19:41:23] Resource 'players' changed, reloading and starting
+[2020-07-02 19:41:23] Starting players
+[2020-07-02 19:41:23] SCRIPT ERROR: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:41:23] ERROR: Loading script failed: players\players.lua:5: 'do' expected near 'setMinuteDuration'
+[2020-07-02 19:41:23] players restarted successfully
+[2020-07-02 19:42:16] restart: Requested by Console
+[2020-07-02 19:42:16] restart: Resource restarting...
+[2020-07-02 19:42:16] Stopping players
+[2020-07-02 19:42:16] Resource 'players' changed, reloading and starting
+[2020-07-02 19:42:16] Starting players
+[2020-07-02 19:42:16] players restarted successfully
+[2020-07-02 19:42:21] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:42:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:42:27] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:52:28] restart: Requested by Console
+[2020-07-02 19:52:28] restart: Resource restarting...
+[2020-07-02 19:52:28] Stopping players
+[2020-07-02 19:52:28] Resource 'players' changed, reloading and starting
+[2020-07-02 19:52:28] Starting players
+[2020-07-02 19:52:28] players restarted successfully
+[2020-07-02 19:53:24] restart: Requested by Console
+[2020-07-02 19:53:24] restart: Resource restarting...
+[2020-07-02 19:53:24] Stopping players
+[2020-07-02 19:53:24] Resource 'players' changed, reloading and starting
+[2020-07-02 19:53:24] Starting players
+[2020-07-02 19:53:24] players restarted successfully
+[2020-07-02 19:54:00] ACL: Denied 'PostmanPat' access to command 'restart'
+[2020-07-02 19:54:04] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:54:09] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:54:09] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:54:21] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:55:18] restart: Requested by Console
+[2020-07-02 19:55:18] restart: Resource restarting...
+[2020-07-02 19:55:18] Stopping players
+[2020-07-02 19:55:18] Resource 'players' changed, reloading and starting
+[2020-07-02 19:55:18] Starting players
+[2020-07-02 19:55:18] players restarted successfully
+[2020-07-02 19:55:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:55:27] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:56:48] restart: Requested by Console
+[2020-07-02 19:56:48] restart: Resource restarting...
+[2020-07-02 19:56:48] Stopping players
+[2020-07-02 19:56:48] Starting players
+[2020-07-02 19:56:48] players restarted successfully
+[2020-07-02 19:56:52] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:56:56] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:56:56] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:58:11] restart: Requested by Console
+[2020-07-02 19:58:11] restart: Resource restarting...
+[2020-07-02 19:58:11] Stopping players
+[2020-07-02 19:58:11] Resource 'players' changed, reloading and starting
+[2020-07-02 19:58:11] Starting players
+[2020-07-02 19:58:11] players restarted successfully
+[2020-07-02 19:58:17] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 19:58:24] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 19:58:24] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 19:58:28] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 20:00:08] restart: Requested by Console
+[2020-07-02 20:00:08] restart: Resource restarting...
+[2020-07-02 20:00:08] Stopping players
+[2020-07-02 20:00:08] Resource 'players' changed, reloading and starting
+[2020-07-02 20:00:08] Starting players
+[2020-07-02 20:00:08] players restarted successfully
+[2020-07-02 20:00:16] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 20:00:16] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 20:00:16] WARNING: players\players.lua:19: Bad argument @ 'triggerClientEvent' [Expected element at argument 3, got none]
+[2020-07-02 20:00:30] restart: Requested by Console
+[2020-07-02 20:00:30] restart: Resource restarting...
+[2020-07-02 20:00:30] Stopping players
+[2020-07-02 20:00:30] Starting players
+[2020-07-02 20:00:30] players restarted successfully
+[2020-07-02 20:00:35] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 20:00:39] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 20:00:39] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 20:00:39] WARNING: players\players.lua:19: Bad argument @ 'triggerClientEvent' [Expected element at argument 3, got none]
+[2020-07-02 20:00:53] restart: Requested by Console
+[2020-07-02 20:00:53] restart: Resource restarting...
+[2020-07-02 20:00:53] Stopping players
+[2020-07-02 20:00:53] Resource 'players' changed, reloading and starting
+[2020-07-02 20:00:53] Starting players
+[2020-07-02 20:00:53] players restarted successfully
+[2020-07-02 20:00:58] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 20:01:02] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 20:01:03] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 20:01:05] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 20:01:33] restart: Requested by Console
+[2020-07-02 20:01:33] restart: Resource restarting...
+[2020-07-02 20:01:33] Stopping players
+[2020-07-02 20:01:33] Resource 'players' changed, reloading and starting
+[2020-07-02 20:01:33] Starting players
+[2020-07-02 20:01:33] players restarted successfully
+[2020-07-02 20:01:43] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 20:01:43] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 20:07:24] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 20:07:28] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:07:28] Stopping players
+[2020-07-02 20:07:28] Resource 'players' changed, reloading and starting
+[2020-07-02 20:07:28] Starting players
+[2020-07-02 20:07:28] players restarted successfully
+[2020-07-02 20:08:41] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:08:41] Stopping players
+[2020-07-02 20:08:41] Resource 'players' changed, reloading and starting
+[2020-07-02 20:08:41] Starting players
+[2020-07-02 20:08:41] players restarted successfully
+[2020-07-02 20:09:15] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:09:15] Stopping players
+[2020-07-02 20:09:15] Resource 'players' changed, reloading and starting
+[2020-07-02 20:09:15] Starting players
+[2020-07-02 20:09:15] players restarted successfully
+[2020-07-02 20:12:57] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:12:57] Stopping players
+[2020-07-02 20:12:57] Resource 'players' changed, reloading and starting
+[2020-07-02 20:12:57] Starting players
+[2020-07-02 20:12:57] players restarted successfully
+[2020-07-02 20:15:19] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:15:19] Stopping vehicles
+[2020-07-02 20:15:19] Starting vehicles
+[2020-07-02 20:15:19] vehicles restarted successfully
+[2020-07-02 20:15:22] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:15:22] Stopping players
+[2020-07-02 20:15:22] Starting players
+[2020-07-02 20:15:22] players restarted successfully
+[2020-07-02 20:16:05] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:16:05] Stopping players
+[2020-07-02 20:16:05] Resource 'players' changed, reloading and starting
+[2020-07-02 20:16:05] Starting players
+[2020-07-02 20:16:05] players restarted successfully
+[2020-07-02 20:17:16] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:17:16] Stopping players
+[2020-07-02 20:17:16] Resource 'players' changed, reloading and starting
+[2020-07-02 20:17:16] Starting players
+[2020-07-02 20:17:16] players restarted successfully
+[2020-07-02 20:19:08] restart: Requested by Console
+[2020-07-02 20:19:08] restart: Resource restarting...
+[2020-07-02 20:19:08] Stopping players
+[2020-07-02 20:19:08] Resource 'players' changed, reloading and starting
+[2020-07-02 20:19:08] Starting players
+[2020-07-02 20:19:08] players restarted successfully
+[2020-07-02 20:23:07] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:23:07] Stopping players
+[2020-07-02 20:23:07] Resource 'players' changed, reloading and starting
+[2020-07-02 20:23:07] Starting players
+[2020-07-02 20:23:07] players restarted successfully
+[2020-07-02 20:23:41] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:23:41] Stopping players
+[2020-07-02 20:23:41] Resource 'players' changed, reloading and starting
+[2020-07-02 20:23:41] Starting players
+[2020-07-02 20:23:41] players restarted successfully
+[2020-07-02 20:27:02] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:27:02] Stopping players
+[2020-07-02 20:27:02] Resource 'players' changed, reloading and starting
+[2020-07-02 20:27:02] Starting players
+[2020-07-02 20:27:02] players restarted successfully
+[2020-07-02 20:27:38] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:27:38] Stopping players
+[2020-07-02 20:27:38] Resource 'players' changed, reloading and starting
+[2020-07-02 20:27:38] Starting players
+[2020-07-02 20:27:38] players restarted successfully
+[2020-07-02 20:28:53] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:28:53] Stopping players
+[2020-07-02 20:28:53] Resource 'players' changed, reloading and starting
+[2020-07-02 20:28:53] Starting players
+[2020-07-02 20:28:53] players restarted successfully
+[2020-07-02 20:29:17] restart: Requested by Console
+[2020-07-02 20:29:17] restart: Resource restarting...
+[2020-07-02 20:29:17] Stopping players
+[2020-07-02 20:29:17] Resource 'players' changed, reloading and starting
+[2020-07-02 20:29:17] Starting players
+[2020-07-02 20:29:17] players restarted successfully
+[2020-07-02 20:29:59] restart: Requested by Console
+[2020-07-02 20:29:59] restart: Resource restarting...
+[2020-07-02 20:29:59] Stopping players
+[2020-07-02 20:29:59] Resource 'players' changed, reloading and starting
+[2020-07-02 20:29:59] Starting players
+[2020-07-02 20:29:59] players restarted successfully
+[2020-07-02 20:30:34] restart: Requested by Console
+[2020-07-02 20:30:34] restart: Resource restarting...
+[2020-07-02 20:30:34] Stopping players
+[2020-07-02 20:30:34] Resource 'players' changed, reloading and starting
+[2020-07-02 20:30:34] Starting players
+[2020-07-02 20:30:34] players restarted successfully
+[2020-07-02 20:43:34] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:43:34] Stopping players
+[2020-07-02 20:43:34] Resource 'players' changed, reloading and starting
+[2020-07-02 20:43:34] Starting players
+[2020-07-02 20:43:34] players restarted successfully
+[2020-07-02 20:45:12] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:45:12] Stopping players
+[2020-07-02 20:45:12] Resource 'players' changed, reloading and starting
+[2020-07-02 20:45:12] Starting players
+[2020-07-02 20:45:12] players restarted successfully
+[2020-07-02 20:59:22] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 20:59:22] Stopping players
+[2020-07-02 20:59:22] Resource 'players' changed, reloading and starting
+[2020-07-02 20:59:23] Starting players
+[2020-07-02 20:59:23] players restarted successfully
+[2020-07-02 21:00:28] restart: Requested by Console
+[2020-07-02 21:00:28] restart: Resource restarting...
+[2020-07-02 21:00:28] Stopping players
+[2020-07-02 21:00:28] Resource 'players' changed, reloading and starting
+[2020-07-02 21:00:28] Starting players
+[2020-07-02 21:00:28] players restarted successfully
+[2020-07-02 21:00:46] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 21:00:46] Stopping players
+[2020-07-02 21:00:46] Resource 'players' changed, reloading and starting
+[2020-07-02 21:00:46] Starting players
+[2020-07-02 21:00:46] players restarted successfully
+[2020-07-02 21:01:02] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:01:07] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:01:08] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:01:16] ACL: Denied 'PostmanPat' access to command 'restart'
+[2020-07-02 21:01:39] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 21:01:44] restart: Requested by PostmanPat(TestUser)
+[2020-07-02 21:01:44] Stopping players
+[2020-07-02 21:01:44] Resource 'players' changed, reloading and starting
+[2020-07-02 21:01:44] Starting players
+[2020-07-02 21:01:44] players restarted successfully
+[2020-07-02 21:01:48] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:03:28] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:03:28] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:03:37] Server stopped!
+[2020-07-02 21:03:37] Stopping resources......
+[2020-07-02 21:03:37] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 21:03:37] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 21:03:37] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-02 21:03:37] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 21:03:43] Resources: 4 loaded, 0 failed
+[2020-07-02 21:03:43] Starting resources.......
+[2020-07-02 21:03:43] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 21:03:43] WARNING: <owner_email_address> not set
+[2020-07-02 21:03:43] Server started and is ready to accept connections!
+[2020-07-02 21:03:43] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 21:03:43] Type 'help' for a list of commands.
+[2020-07-02 21:03:43] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 21:03:52] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 21:03:52] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:03:52] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:04:59] ACL: Denied 'PostmanPat' access to command 'restart'
+[2020-07-02 21:05:04] restart: Requested by Console
+[2020-07-02 21:05:04] restart: Resource restarting...
+[2020-07-02 21:05:04] Stopping players
+[2020-07-02 21:05:04] Resource 'players' changed, reloading and starting
+[2020-07-02 21:05:04] Starting players
+[2020-07-02 21:05:04] players restarted successfully
+[2020-07-02 21:05:11] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:05:15] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:05:15] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:06:08] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:06:10] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:06:11] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:06:17] restart: Requested by Console
+[2020-07-02 21:06:17] restart: Resource restarting...
+[2020-07-02 21:06:17] Stopping players
+[2020-07-02 21:06:17] Resource 'players' changed, reloading and starting
+[2020-07-02 21:06:17] Starting players
+[2020-07-02 21:06:17] players restarted successfully
+[2020-07-02 21:06:23] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:06:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:06:28] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:06:54] restart: Requested by Console
+[2020-07-02 21:06:54] restart: Resource restarting...
+[2020-07-02 21:06:54] Stopping players
+[2020-07-02 21:06:54] Resource 'players' changed, reloading and starting
+[2020-07-02 21:06:54] Starting players
+[2020-07-02 21:06:54] players restarted successfully
+[2020-07-02 21:06:58] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:07:03] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:07:03] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:07:53] restart: Requested by Console
+[2020-07-02 21:07:53] restart: Resource restarting...
+[2020-07-02 21:07:53] Stopping players
+[2020-07-02 21:07:53] Resource 'players' changed, reloading and starting
+[2020-07-02 21:07:53] Starting players
+[2020-07-02 21:07:53] players restarted successfully
+[2020-07-02 21:07:58] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:08:05] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:08:06] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:08:08] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:08:21] restart: Requested by Console
+[2020-07-02 21:08:21] restart: Resource restarting...
+[2020-07-02 21:08:21] Stopping players
+[2020-07-02 21:08:21] Starting players
+[2020-07-02 21:08:21] players restarted successfully
+[2020-07-02 21:08:29] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:08:30] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:08:53] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:09:19] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:09:19] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:09:30] restart: Requested by Console
+[2020-07-02 21:09:30] restart: Resource restarting...
+[2020-07-02 21:09:30] Stopping players
+[2020-07-02 21:09:30] Resource 'players' changed, reloading and starting
+[2020-07-02 21:09:30] Starting players
+[2020-07-02 21:09:30] players restarted successfully
+[2020-07-02 21:09:35] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:09:39] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:09:40] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:09:58] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:11:30] Server stopped!
+[2020-07-02 21:11:30] Stopping resources......
+[2020-07-02 21:11:30] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 21:11:30] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 21:11:30] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-02 21:11:30] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 21:11:34] Resources: 4 loaded, 0 failed
+[2020-07-02 21:11:34] Starting resources.......
+[2020-07-02 21:11:34] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 21:11:34] WARNING: <owner_email_address> not set
+[2020-07-02 21:11:34] Server started and is ready to accept connections!
+[2020-07-02 21:11:34] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 21:11:34] Type 'help' for a list of commands.
+[2020-07-02 21:11:34] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 21:15:11] restart: Requested by Console
+[2020-07-02 21:15:11] restart: Resource restarting...
+[2020-07-02 21:15:11] Stopping players
+[2020-07-02 21:15:11] Resource 'players' changed, reloading and starting
+[2020-07-02 21:15:11] Starting players
+[2020-07-02 21:15:11] players restarted successfully
+[2020-07-02 21:15:18] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 21:15:18] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:15:18] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:16:53] restart: Requested by Console
+[2020-07-02 21:16:53] restart: Resource restarting...
+[2020-07-02 21:16:53] Stopping players
+[2020-07-02 21:16:53] Resource 'players' changed, reloading and starting
+[2020-07-02 21:16:53] Starting players
+[2020-07-02 21:16:53] players restarted successfully
+[2020-07-02 21:17:00] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:17:01] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:17:01] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:19:38] restart: Requested by Console
+[2020-07-02 21:19:38] restart: Resource restarting...
+[2020-07-02 21:19:38] Stopping players
+[2020-07-02 21:19:38] Resource 'players' changed, reloading and starting
+[2020-07-02 21:19:38] Starting players
+[2020-07-02 21:19:38] players restarted successfully
+[2020-07-02 21:19:43] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:19:45] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:19:45] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:19:47] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:19:48] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:19:55] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:22:46] restart: Requested by Console
+[2020-07-02 21:22:46] restart: Resource restarting...
+[2020-07-02 21:22:46] Stopping players
+[2020-07-02 21:22:46] Resource 'players' changed, reloading and starting
+[2020-07-02 21:22:46] Starting players
+[2020-07-02 21:22:46] players restarted successfully
+[2020-07-02 21:22:54] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:22:54] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:24:32] restart: Requested by Console
+[2020-07-02 21:24:32] restart: Resource restarting...
+[2020-07-02 21:24:32] Stopping players
+[2020-07-02 21:24:32] Resource 'players' changed, reloading and starting
+[2020-07-02 21:24:32] Starting players
+[2020-07-02 21:24:32] players restarted successfully
+[2020-07-02 21:24:36] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:24:40] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:24:40] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:25:20] restart: Requested by Console
+[2020-07-02 21:25:20] restart: Resource restarting...
+[2020-07-02 21:25:20] Stopping players
+[2020-07-02 21:25:20] Starting players
+[2020-07-02 21:25:20] players restarted successfully
+[2020-07-02 21:25:26] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:27:02] restart: Requested by Console
+[2020-07-02 21:27:02] restart: Resource restarting...
+[2020-07-02 21:27:02] Stopping players
+[2020-07-02 21:27:02] Resource 'players' changed, reloading and starting
+[2020-07-02 21:27:02] Starting players
+[2020-07-02 21:27:02] players restarted successfully
+[2020-07-02 21:27:09] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:27:09] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:28:10] restart: Requested by Console
+[2020-07-02 21:28:10] restart: Resource restarting...
+[2020-07-02 21:28:10] Stopping players
+[2020-07-02 21:28:10] Resource 'players' changed, reloading and starting
+[2020-07-02 21:28:10] Starting players
+[2020-07-02 21:28:10] players restarted successfully
+[2020-07-02 21:28:16] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:28:20] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:28:20] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:30:33] restart: Requested by Console
+[2020-07-02 21:30:33] restart: Resource restarting...
+[2020-07-02 21:30:33] Stopping players
+[2020-07-02 21:30:33] Resource 'players' changed, reloading and starting
+[2020-07-02 21:30:33] Starting players
+[2020-07-02 21:30:33] players restarted successfully
+[2020-07-02 21:30:37] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:30:42] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:30:43] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:31:19] Server stopped!
+[2020-07-02 21:31:19] Stopping resources......
+[2020-07-02 21:31:19] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 21:31:19] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 21:31:19] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-02 21:31:19] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 21:31:37] Resources: 4 loaded, 0 failed
+[2020-07-02 21:31:37] Starting resources.......
+[2020-07-02 21:31:37] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 21:31:37] WARNING: <owner_email_address> not set
+[2020-07-02 21:31:37] Server started and is ready to accept connections!
+[2020-07-02 21:31:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 21:31:37] Type 'help' for a list of commands.
+[2020-07-02 21:31:37] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 21:31:40] restart: Requested by Console
+[2020-07-02 21:31:40] restart: Resource restarting...
+[2020-07-02 21:31:40] Stopping players
+[2020-07-02 21:31:40] Starting players
+[2020-07-02 21:31:40] players restarted successfully
+[2020-07-02 21:32:20] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 21:32:20] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:32:24] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:33:34] restart: Requested by Console
+[2020-07-02 21:33:34] restart: Resource restarting...
+[2020-07-02 21:33:34] Stopping players
+[2020-07-02 21:33:34] Resource 'players' changed, reloading and starting
+[2020-07-02 21:33:34] Starting players
+[2020-07-02 21:33:34] players restarted successfully
+[2020-07-02 21:33:39] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:33:46] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:33:47] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:34:05] * Syntax: restart <resource-name>
+[2020-07-02 21:34:11] restart: Requested by Console
+[2020-07-02 21:34:11] restart: Resource restarting...
+[2020-07-02 21:34:11] Stopping players
+[2020-07-02 21:34:11] Resource 'players' changed, reloading and starting
+[2020-07-02 21:34:11] Starting players
+[2020-07-02 21:34:11] players restarted successfully
+[2020-07-02 21:34:17] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:35:17] restart: Resource could not be found
+[2020-07-02 21:35:23] restart: Requested by Console
+[2020-07-02 21:35:23] restart: Resource restarting...
+[2020-07-02 21:35:23] Stopping players
+[2020-07-02 21:35:23] Resource 'players' changed, reloading and starting
+[2020-07-02 21:35:23] Starting players
+[2020-07-02 21:35:23] players restarted successfully
+[2020-07-02 21:35:34] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:35:34] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:36:48] restart: Resource could not be found
+[2020-07-02 21:36:52] restart: Requested by Console
+[2020-07-02 21:36:52] restart: Resource restarting...
+[2020-07-02 21:36:52] Stopping players
+[2020-07-02 21:36:52] Resource 'players' changed, reloading and starting
+[2020-07-02 21:36:52] Starting players
+[2020-07-02 21:36:52] players restarted successfully
+[2020-07-02 21:36:57] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:37:00] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:37:00] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:37:12] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:37:57] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:37:58] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:38:02] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:42:17] restart: Resource could not be found
+[2020-07-02 21:42:19] restart: Requested by Console
+[2020-07-02 21:42:19] restart: Resource restarting...
+[2020-07-02 21:42:19] Stopping players
+[2020-07-02 21:42:19] Resource 'players' changed, reloading and starting
+[2020-07-02 21:42:19] Starting players
+[2020-07-02 21:42:19] players restarted successfully
+[2020-07-02 21:42:47] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:42:51] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:44:02] restart: Requested by Console
+[2020-07-02 21:44:02] restart: Resource restarting...
+[2020-07-02 21:44:02] Stopping players
+[2020-07-02 21:44:02] Resource 'players' changed, reloading and starting
+[2020-07-02 21:44:02] Starting players
+[2020-07-02 21:44:02] players restarted successfully
+[2020-07-02 21:44:18] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:44:21] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:44:22] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:44:26] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:45:22] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:45:23] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:45:27] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:46:53] restart: Requested by Console
+[2020-07-02 21:46:53] restart: Resource restarting...
+[2020-07-02 21:46:53] Stopping players
+[2020-07-02 21:46:53] Resource 'players' changed, reloading and starting
+[2020-07-02 21:46:53] Starting players
+[2020-07-02 21:46:53] players restarted successfully
+[2020-07-02 21:47:01] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:47:01] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:47:01] WARNING: players\players.lua:14: Bad argument @ 'setCameraMatrix' [Expected element at argument 1, got number '0']
+[2020-07-02 21:47:01] WARNING: players\players.lua:15: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-02 21:47:28] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:47:37] restart: Requested by Console
+[2020-07-02 21:47:37] restart: Resource restarting...
+[2020-07-02 21:47:37] Stopping players
+[2020-07-02 21:47:37] Starting players
+[2020-07-02 21:47:37] players restarted successfully
+[2020-07-02 21:47:44] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:47:44] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:47:44] WARNING: players\players.lua:14: Bad argument @ 'setCameraMatrix' [Expected element at argument 1, got number '0']
+[2020-07-02 21:47:44] WARNING: players\players.lua:15: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-02 21:51:07] restart: Requested by Console
+[2020-07-02 21:51:07] restart: Resource restarting...
+[2020-07-02 21:51:07] Stopping players
+[2020-07-02 21:51:07] Resource 'players' changed, reloading and starting
+[2020-07-02 21:51:07] Starting players
+[2020-07-02 21:51:07] players restarted successfully
+[2020-07-02 21:51:47] restart: Requested by Console
+[2020-07-02 21:51:47] restart: Resource restarting...
+[2020-07-02 21:51:47] Stopping players
+[2020-07-02 21:51:47] Resource 'players' changed, reloading and starting
+[2020-07-02 21:51:47] Starting players
+[2020-07-02 21:51:47] players restarted successfully
+[2020-07-02 21:52:31] restart: Requested by Console
+[2020-07-02 21:52:31] restart: Resource restarting...
+[2020-07-02 21:52:31] Stopping players
+[2020-07-02 21:52:31] Resource 'players' changed, reloading and starting
+[2020-07-02 21:52:31] Starting players
+[2020-07-02 21:52:31] players restarted successfully
+[2020-07-02 21:53:38] restart: Requested by Console
+[2020-07-02 21:53:38] restart: Resource restarting...
+[2020-07-02 21:53:38] Stopping players
+[2020-07-02 21:53:38] Resource 'players' changed, reloading and starting
+[2020-07-02 21:53:38] Starting players
+[2020-07-02 21:53:38] players restarted successfully
+[2020-07-02 21:54:13] restart: Requested by Console
+[2020-07-02 21:54:13] restart: Resource restarting...
+[2020-07-02 21:54:13] Stopping players
+[2020-07-02 21:54:13] Resource 'players' changed, reloading and starting
+[2020-07-02 21:54:14] Starting players
+[2020-07-02 21:54:14] players restarted successfully
+[2020-07-02 21:54:27] restart: Requested by Console
+[2020-07-02 21:54:27] restart: Resource restarting...
+[2020-07-02 21:54:27] Stopping players
+[2020-07-02 21:54:27] Resource 'players' changed, reloading and starting
+[2020-07-02 21:54:27] Starting players
+[2020-07-02 21:54:27] players restarted successfully
+[2020-07-02 21:55:20] restart: Requested by Console
+[2020-07-02 21:55:20] restart: Resource restarting...
+[2020-07-02 21:55:20] Stopping players
+[2020-07-02 21:55:20] Resource 'players' changed, reloading and starting
+[2020-07-02 21:55:20] Starting players
+[2020-07-02 21:55:20] players restarted successfully
+[2020-07-02 21:55:42] restart: Requested by Console
+[2020-07-02 21:55:42] restart: Resource restarting...
+[2020-07-02 21:55:42] Stopping players
+[2020-07-02 21:55:42] Resource 'players' changed, reloading and starting
+[2020-07-02 21:55:42] Starting players
+[2020-07-02 21:55:42] players restarted successfully
+[2020-07-02 21:55:43] restart: Requested by Console
+[2020-07-02 21:55:43] restart: Resource restarting...
+[2020-07-02 21:55:43] Stopping players
+[2020-07-02 21:55:43] Starting players
+[2020-07-02 21:55:43] players restarted successfully
+[2020-07-02 21:56:18] restart: Requested by Console
+[2020-07-02 21:56:18] restart: Resource restarting...
+[2020-07-02 21:56:18] Stopping players
+[2020-07-02 21:56:18] Resource 'players' changed, reloading and starting
+[2020-07-02 21:56:18] Starting players
+[2020-07-02 21:56:18] players restarted successfully
+[2020-07-02 21:57:53] restart: Requested by Console
+[2020-07-02 21:57:53] restart: Resource restarting...
+[2020-07-02 21:57:53] Stopping players
+[2020-07-02 21:57:53] Resource 'players' changed, reloading and starting
+[2020-07-02 21:57:53] Starting players
+[2020-07-02 21:57:53] players restarted successfully
+[2020-07-02 21:57:58] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:58:03] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:58:03] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:58:03] WARNING: players\players.lua:14: Bad argument @ 'setCameraMatrix' [Expected element at argument 1, got number '0']
+[2020-07-02 21:58:09] WARNING: players\players.lua:15: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-02 21:59:15] restart: Requested by Console
+[2020-07-02 21:59:15] restart: Resource restarting...
+[2020-07-02 21:59:15] Stopping players
+[2020-07-02 21:59:15] Resource 'players' changed, reloading and starting
+[2020-07-02 21:59:15] Starting players
+[2020-07-02 21:59:15] players restarted successfully
+[2020-07-02 21:59:20] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:59:24] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:59:24] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:59:24] WARNING: players\players.lua:14: Bad argument @ 'setCameraMatrix' [Expected element at argument 1, got number '0']
+[2020-07-02 21:59:24] WARNING: players\players.lua:15: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-02 21:59:27] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 21:59:48] restart: Requested by Console
+[2020-07-02 21:59:48] restart: Resource restarting...
+[2020-07-02 21:59:48] Stopping players
+[2020-07-02 21:59:48] Resource 'players' changed, reloading and starting
+[2020-07-02 21:59:48] Starting players
+[2020-07-02 21:59:48] players restarted successfully
+[2020-07-02 21:59:56] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 21:59:56] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 21:59:56] WARNING: players\players.lua:14: Bad argument @ 'setCameraMatrix' [Expected element at argument 1, got number '0']
+[2020-07-02 21:59:56] WARNING: players\players.lua:15: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-02 22:00:24] restart: Requested by Console
+[2020-07-02 22:00:24] restart: Resource restarting...
+[2020-07-02 22:00:24] Stopping players
+[2020-07-02 22:00:24] Resource 'players' changed, reloading and starting
+[2020-07-02 22:00:24] Starting players
+[2020-07-02 22:00:24] players restarted successfully
+[2020-07-02 22:00:28] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:00:33] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:00:33] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:00:33] WARNING: players\players.lua:14: Bad argument @ 'setCameraMatrix' [Expected element at argument 1, got number '0']
+[2020-07-02 22:00:39] WARNING: players\players.lua:15: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-02 22:00:59] restart: Requested by Console
+[2020-07-02 22:00:59] restart: Resource restarting...
+[2020-07-02 22:00:59] Stopping players
+[2020-07-02 22:00:59] Resource 'players' changed, reloading and starting
+[2020-07-02 22:00:59] Starting players
+[2020-07-02 22:00:59] players restarted successfully
+[2020-07-02 22:01:35] restart: Requested by Console
+[2020-07-02 22:01:35] restart: Resource restarting...
+[2020-07-02 22:01:35] Stopping players
+[2020-07-02 22:01:35] Resource 'players' changed, reloading and starting
+[2020-07-02 22:01:35] Starting players
+[2020-07-02 22:01:35] players restarted successfully
+[2020-07-02 22:01:40] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:01:45] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:01:45] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:02:01] restart: Requested by Console
+[2020-07-02 22:02:01] restart: Resource restarting...
+[2020-07-02 22:02:01] Stopping players
+[2020-07-02 22:02:01] Resource 'players' changed, reloading and starting
+[2020-07-02 22:02:01] Starting players
+[2020-07-02 22:02:01] players restarted successfully
+[2020-07-02 22:02:05] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:02:10] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:02:11] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:04:20] restart: Requested by Console
+[2020-07-02 22:04:20] restart: Resource restarting...
+[2020-07-02 22:04:20] Stopping players
+[2020-07-02 22:04:20] Resource 'players' changed, reloading and starting
+[2020-07-02 22:04:20] Starting players
+[2020-07-02 22:04:20] players restarted successfully
+[2020-07-02 22:04:24] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:04:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:04:28] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:04:49] restart: Requested by Console
+[2020-07-02 22:04:49] restart: Resource restarting...
+[2020-07-02 22:04:49] Stopping players
+[2020-07-02 22:04:49] Resource 'players' changed, reloading and starting
+[2020-07-02 22:04:49] Starting players
+[2020-07-02 22:04:49] players restarted successfully
+[2020-07-02 22:06:07] restart: Requested by Console
+[2020-07-02 22:06:07] restart: Resource restarting...
+[2020-07-02 22:06:07] Stopping players
+[2020-07-02 22:06:07] Resource 'players' changed, reloading and starting
+[2020-07-02 22:06:07] Starting players
+[2020-07-02 22:06:07] players restarted successfully
+[2020-07-02 22:06:14] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:06:19] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:06:19] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:07:37] restart: Requested by Console
+[2020-07-02 22:07:37] restart: Resource restarting...
+[2020-07-02 22:07:37] Stopping players
+[2020-07-02 22:07:37] Resource 'players' changed, reloading and starting
+[2020-07-02 22:07:37] Starting players
+[2020-07-02 22:07:37] players restarted successfully
+[2020-07-02 22:07:41] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:07:45] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:07:45] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:07:47] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:08:16] restart: Requested by Console
+[2020-07-02 22:08:16] restart: Resource restarting...
+[2020-07-02 22:08:16] Stopping players
+[2020-07-02 22:08:16] Resource 'players' changed, reloading and starting
+[2020-07-02 22:08:16] Starting players
+[2020-07-02 22:08:16] players restarted successfully
+[2020-07-02 22:08:23] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:08:23] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:10:12] restart: Requested by Console
+[2020-07-02 22:10:12] restart: Resource restarting...
+[2020-07-02 22:10:12] Stopping players
+[2020-07-02 22:10:12] Resource 'players' changed, reloading and starting
+[2020-07-02 22:10:12] Starting players
+[2020-07-02 22:10:12] players restarted successfully
+[2020-07-02 22:10:17] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:10:21] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:10:21] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:11:29] restart: Requested by Console
+[2020-07-02 22:11:29] restart: Resource restarting...
+[2020-07-02 22:11:29] Stopping players
+[2020-07-02 22:11:29] Resource 'players' changed, reloading and starting
+[2020-07-02 22:11:29] Starting players
+[2020-07-02 22:11:29] players restarted successfully
+[2020-07-02 22:11:34] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:11:38] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:11:38] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:12:12] restart: Requested by Console
+[2020-07-02 22:12:12] restart: Resource restarting...
+[2020-07-02 22:12:12] Stopping players
+[2020-07-02 22:12:12] Resource 'players' changed, reloading and starting
+[2020-07-02 22:12:12] Starting players
+[2020-07-02 22:12:12] players restarted successfully
+[2020-07-02 22:12:16] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:12:21] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:12:21] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:18:19] restart: Resource could not be found
+[2020-07-02 22:18:21] restart: Requested by Console
+[2020-07-02 22:18:21] restart: Resource restarting...
+[2020-07-02 22:18:21] Stopping players
+[2020-07-02 22:18:22] Resource 'players' changed, reloading and starting
+[2020-07-02 22:18:22] Starting players
+[2020-07-02 22:18:22] players restarted successfully
+[2020-07-02 22:18:26] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:18:30] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:18:30] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:20:10] restart: Resource could not be found
+[2020-07-02 22:20:14] restart: Requested by Console
+[2020-07-02 22:20:14] restart: Resource restarting...
+[2020-07-02 22:20:14] Stopping players
+[2020-07-02 22:20:14] Resource 'players' changed, reloading and starting
+[2020-07-02 22:20:14] Starting players
+[2020-07-02 22:20:14] players restarted successfully
+[2020-07-02 22:20:19] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:20:25] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:20:26] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:21:03] restart: Requested by Console
+[2020-07-02 22:21:03] restart: Resource restarting...
+[2020-07-02 22:21:03] Stopping players
+[2020-07-02 22:21:03] Resource 'players' changed, reloading and starting
+[2020-07-02 22:21:03] Starting players
+[2020-07-02 22:21:03] players restarted successfully
+[2020-07-02 22:21:08] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:21:12] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:21:12] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:21:30] restart: Requested by Console
+[2020-07-02 22:21:30] restart: Resource restarting...
+[2020-07-02 22:21:30] Stopping players
+[2020-07-02 22:21:30] Resource 'players' changed, reloading and starting
+[2020-07-02 22:21:30] Starting players
+[2020-07-02 22:21:30] players restarted successfully
+[2020-07-02 22:26:33] CONNECT: Walahi connected (IP: 217.62.220.188  Serial: 154195CB5DC30D391011D4CFA6E651A2  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:26:46] JOIN: Walahi joined the game (IP: 217.62.220.188)
+[2020-07-02 22:26:57] restart: Requested by Console
+[2020-07-02 22:26:57] restart: Resource restarting...
+[2020-07-02 22:26:57] Stopping players
+[2020-07-02 22:26:57] Resource 'players' changed, reloading and starting
+[2020-07-02 22:26:57] Starting players
+[2020-07-02 22:26:57] players restarted successfully
+[2020-07-02 22:27:17] QUIT: Walahi left the game [Quit]
+[2020-07-02 22:27:43] restart: Requested by Console
+[2020-07-02 22:27:43] restart: Resource restarting...
+[2020-07-02 22:27:43] Stopping players
+[2020-07-02 22:27:43] Resource 'players' changed, reloading and starting
+[2020-07-02 22:27:43] Starting players
+[2020-07-02 22:27:43] players restarted successfully
+[2020-07-02 22:27:50] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:27:55] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:27:55] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:28:32] restart: Requested by Console
+[2020-07-02 22:28:32] restart: Resource restarting...
+[2020-07-02 22:28:32] Stopping players
+[2020-07-02 22:28:32] Resource 'players' changed, reloading and starting
+[2020-07-02 22:28:32] Starting players
+[2020-07-02 22:28:32] players restarted successfully
+[2020-07-02 22:29:21] restart: Requested by Console
+[2020-07-02 22:29:21] restart: Resource restarting...
+[2020-07-02 22:29:21] Stopping players
+[2020-07-02 22:29:21] Resource 'players' changed, reloading and starting
+[2020-07-02 22:29:21] Starting players
+[2020-07-02 22:29:21] players restarted successfully
+[2020-07-02 22:29:28] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:29:31] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:29:32] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:29:59] restart: Requested by Console
+[2020-07-02 22:29:59] restart: Resource restarting...
+[2020-07-02 22:29:59] Stopping players
+[2020-07-02 22:29:59] Resource 'players' changed, reloading and starting
+[2020-07-02 22:29:59] Starting players
+[2020-07-02 22:29:59] players restarted successfully
+[2020-07-02 22:31:17] restart: Requested by Console
+[2020-07-02 22:31:17] restart: Resource restarting...
+[2020-07-02 22:31:17] Stopping players
+[2020-07-02 22:31:17] Resource 'players' changed, reloading and starting
+[2020-07-02 22:31:18] Starting players
+[2020-07-02 22:31:18] players restarted successfully
+[2020-07-02 22:31:22] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 22:31:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 22:31:28] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 22:31:58] restart: Requested by Console
+[2020-07-02 22:31:58] restart: Resource restarting...
+[2020-07-02 22:31:58] Stopping players
+[2020-07-02 22:31:58] Resource 'players' changed, reloading and starting
+[2020-07-02 22:31:58] Starting players
+[2020-07-02 22:31:58] players restarted successfully
+[2020-07-02 22:41:45] restart: Requested by Console
+[2020-07-02 22:41:45] restart: Resource restarting...
+[2020-07-02 22:41:45] Stopping players
+[2020-07-02 22:41:45] Resource 'players' changed, reloading and starting
+[2020-07-02 22:41:45] Starting players
+[2020-07-02 22:41:45] players restarted successfully
+[2020-07-02 22:43:09] restart: Requested by Console
+[2020-07-02 22:43:09] restart: Resource restarting...
+[2020-07-02 22:43:09] Stopping players
+[2020-07-02 22:43:09] Resource 'players' changed, reloading and starting
+[2020-07-02 22:43:09] Starting players
+[2020-07-02 22:43:09] players restarted successfully
+[2020-07-02 22:43:56] restart: Requested by Console
+[2020-07-02 22:43:56] restart: Resource restarting...
+[2020-07-02 22:43:56] Stopping players
+[2020-07-02 22:43:56] Resource 'players' changed, reloading and starting
+[2020-07-02 22:43:56] Starting players
+[2020-07-02 22:43:56] players restarted successfully
+[2020-07-02 22:44:37] restart: Requested by Console
+[2020-07-02 22:44:37] restart: Resource restarting...
+[2020-07-02 22:44:37] Stopping players
+[2020-07-02 22:44:37] Resource 'players' changed, reloading and starting
+[2020-07-02 22:44:37] Starting players
+[2020-07-02 22:44:37] players restarted successfully
+[2020-07-02 22:47:36] restart: Requested by Console
+[2020-07-02 22:47:36] restart: Resource restarting...
+[2020-07-02 22:47:36] Stopping players
+[2020-07-02 22:47:36] Resource 'players' changed, reloading and starting
+[2020-07-02 22:47:36] Starting players
+[2020-07-02 22:47:36] players restarted successfully
+[2020-07-02 22:47:57] ERROR: Client (PostmanPat) triggered serverside event auth:login-attempt, but event is not added serverside
+[2020-07-02 22:48:03] ERROR: Client (PostmanPat) triggered serverside event auth:login-attempt, but event is not added serverside  [DUP x2]
+[2020-07-02 22:53:14] restart: Requested by Console
+[2020-07-02 22:53:14] restart: Resource restarting...
+[2020-07-02 22:53:14] Stopping players
+[2020-07-02 22:53:14] Resource 'players' changed, reloading and starting
+[2020-07-02 22:53:14] Starting players
+[2020-07-02 22:53:14] players restarted successfully
+[2020-07-02 22:58:39] restart: Requested by Console
+[2020-07-02 22:58:39] restart: Resource restarting...
+[2020-07-02 22:58:39] Stopping players
+[2020-07-02 22:58:39] Resource 'players' changed, reloading and starting
+[2020-07-02 22:58:39] Starting players
+[2020-07-02 22:58:39] WARNING: players\authentication.lua:38: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 22:58:39] players restarted successfully
+[2020-07-02 22:59:42] restart: Requested by Console
+[2020-07-02 22:59:42] restart: Resource restarting...
+[2020-07-02 22:59:42] Stopping players
+[2020-07-02 22:59:42] Resource 'players' changed, reloading and starting
+[2020-07-02 22:59:42] Starting players
+[2020-07-02 22:59:42] players restarted successfully
+[2020-07-02 22:59:54] WARNING: players\authentication.lua:52: Bad argument @ 'logIn' [Expected player at argument 1, got nil]
+[2020-07-02 23:00:46] restart: Requested by Console
+[2020-07-02 23:00:46] restart: Resource restarting...
+[2020-07-02 23:00:46] Stopping players
+[2020-07-02 23:00:46] Resource 'players' changed, reloading and starting
+[2020-07-02 23:00:46] Starting players
+[2020-07-02 23:00:46] players restarted successfully
+[2020-07-02 23:01:28] restart: Requested by Console
+[2020-07-02 23:01:28] restart: Resource restarting...
+[2020-07-02 23:01:28] Stopping players
+[2020-07-02 23:01:28] Resource 'players' changed, reloading and starting
+[2020-07-02 23:01:28] Starting players
+[2020-07-02 23:01:28] players restarted successfully
+[2020-07-02 23:01:40] WARNING: players\authentication.lua:53: Bad argument @ 'logIn' [Expected player at argument 1, got nil]
+[2020-07-02 23:01:46] WARNING: players\authentication.lua:53: Bad argument @ 'logIn' [Expected player at argument 1, got nil]
+[2020-07-02 23:01:48] WARNING: players\authentication.lua:53: Bad argument @ 'logIn' [Expected player at argument 1, got nil]
+[2020-07-02 23:02:29] restart: Requested by Console
+[2020-07-02 23:02:29] restart: Resource restarting...
+[2020-07-02 23:02:29] Stopping players
+[2020-07-02 23:02:29] Resource 'players' changed, reloading and starting
+[2020-07-02 23:02:29] Starting players
+[2020-07-02 23:02:29] players restarted successfully
+[2020-07-02 23:02:39] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:06:26] restart: Requested by Console
+[2020-07-02 23:06:26] restart: Resource restarting...
+[2020-07-02 23:06:26] Stopping players
+[2020-07-02 23:06:26] Resource 'players' changed, reloading and starting
+[2020-07-02 23:06:26] Starting players
+[2020-07-02 23:06:26] players restarted successfully
+[2020-07-02 23:07:15] restart: Requested by Console
+[2020-07-02 23:07:15] restart: Resource restarting...
+[2020-07-02 23:07:15] Stopping players
+[2020-07-02 23:07:15] Starting players
+[2020-07-02 23:07:15] players restarted successfully
+[2020-07-02 23:07:20] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:07:24] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:07:24] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:07:31] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:08:36] restart: Requested by Console
+[2020-07-02 23:08:36] restart: Resource restarting...
+[2020-07-02 23:08:36] Stopping players
+[2020-07-02 23:08:36] Starting players
+[2020-07-02 23:08:36] players restarted successfully
+[2020-07-02 23:08:40] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:08:46] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:08:47] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:08:58] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:10:52] restart: Requested by Console
+[2020-07-02 23:10:52] restart: Resource restarting...
+[2020-07-02 23:10:52] Stopping players
+[2020-07-02 23:10:52] Resource 'players' changed, reloading and starting
+[2020-07-02 23:10:52] Starting players
+[2020-07-02 23:10:52] players restarted successfully
+[2020-07-02 23:10:57] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:11:01] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:11:02] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:11:09] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:11:41] restart: Requested by Console
+[2020-07-02 23:11:41] restart: Resource restarting...
+[2020-07-02 23:11:41] Stopping players
+[2020-07-02 23:11:41] Resource 'players' changed, reloading and starting
+[2020-07-02 23:11:41] Starting players
+[2020-07-02 23:11:41] players restarted successfully
+[2020-07-02 23:11:44] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:11:49] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:11:49] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:12:10] restart: Requested by Console
+[2020-07-02 23:12:10] restart: Resource restarting...
+[2020-07-02 23:12:10] Stopping players
+[2020-07-02 23:12:10] Resource 'players' changed, reloading and starting
+[2020-07-02 23:12:10] Starting players
+[2020-07-02 23:12:10] players restarted successfully
+[2020-07-02 23:12:13] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:12:19] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:12:19] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:12:27] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:15:01] restart: Requested by Console
+[2020-07-02 23:15:01] restart: Resource restarting...
+[2020-07-02 23:15:01] Stopping players
+[2020-07-02 23:15:01] Resource 'players' changed, reloading and starting
+[2020-07-02 23:15:01] Starting players
+[2020-07-02 23:15:01] players restarted successfully
+[2020-07-02 23:15:05] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:15:09] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:15:10] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:15:19] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:17:21] restart: Requested by Console
+[2020-07-02 23:17:21] restart: Resource restarting...
+[2020-07-02 23:17:21] Stopping players
+[2020-07-02 23:17:21] Resource 'players' changed, reloading and starting
+[2020-07-02 23:17:21] Starting players
+[2020-07-02 23:17:21] players restarted successfully
+[2020-07-02 23:17:24] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:17:29] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:17:29] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:17:36] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-02 23:31:47] restart: Requested by Console
+[2020-07-02 23:31:47] restart: Resource restarting...
+[2020-07-02 23:31:47] Stopping players
+[2020-07-02 23:31:47] Resource 'players' changed, reloading and starting
+[2020-07-02 23:31:47] Starting players
+[2020-07-02 23:31:47] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:31:47] players restarted successfully
+[2020-07-02 23:32:28] restart: Requested by Console
+[2020-07-02 23:32:28] restart: Resource restarting...
+[2020-07-02 23:32:28] Stopping players
+[2020-07-02 23:32:28] Starting players
+[2020-07-02 23:32:28] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:32:28] players restarted successfully
+[2020-07-02 23:32:44] restart: Requested by Console
+[2020-07-02 23:32:44] restart: Resource restarting...
+[2020-07-02 23:32:44] Stopping players
+[2020-07-02 23:32:44] Starting players
+[2020-07-02 23:32:44] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:32:44] players restarted successfully
+[2020-07-02 23:33:01] restart: Requested by Console
+[2020-07-02 23:33:01] restart: Resource restarting...
+[2020-07-02 23:33:01] Stopping players
+[2020-07-02 23:33:01] Starting players
+[2020-07-02 23:33:01] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:33:01] players restarted successfully
+[2020-07-02 23:34:16] restart: Requested by Console
+[2020-07-02 23:34:16] restart: Resource restarting...
+[2020-07-02 23:34:16] Stopping players
+[2020-07-02 23:34:16] Starting players
+[2020-07-02 23:34:16] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:34:16] players restarted successfully
+[2020-07-02 23:34:32] restart: Requested by Console
+[2020-07-02 23:34:32] restart: Resource restarting...
+[2020-07-02 23:34:32] Stopping players
+[2020-07-02 23:34:32] Starting players
+[2020-07-02 23:34:32] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:34:32] players restarted successfully
+[2020-07-02 23:34:53] restart: Requested by Console
+[2020-07-02 23:34:53] restart: Resource restarting...
+[2020-07-02 23:34:53] Stopping players
+[2020-07-02 23:34:53] Starting players
+[2020-07-02 23:34:53] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:34:53] players restarted successfully
+[2020-07-02 23:36:00] restart: Requested by Console
+[2020-07-02 23:36:00] restart: Resource restarting...
+[2020-07-02 23:36:00] Stopping players
+[2020-07-02 23:36:00] Starting players
+[2020-07-02 23:36:00] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:36:00] players restarted successfully
+[2020-07-02 23:36:43] restart: Requested by Console
+[2020-07-02 23:36:43] restart: Resource restarting...
+[2020-07-02 23:36:43] Stopping players
+[2020-07-02 23:36:43] Starting players
+[2020-07-02 23:36:43] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:36:43] players restarted successfully
+[2020-07-02 23:36:58] * Syntax: restart <resource-name>
+[2020-07-02 23:37:02] restart: Requested by Console
+[2020-07-02 23:37:02] restart: Resource restarting...
+[2020-07-02 23:37:02] Stopping players
+[2020-07-02 23:37:02] Starting players
+[2020-07-02 23:37:02] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-02 23:37:02] players restarted successfully
+[2020-07-02 23:37:23] restart: Requested by Console
+[2020-07-02 23:37:23] restart: Resource restarting...
+[2020-07-02 23:37:23] Stopping players
+[2020-07-02 23:37:23] Resource 'players' changed, reloading and starting
+[2020-07-02 23:37:23] Starting players
+[2020-07-02 23:37:23] players restarted successfully
+[2020-07-02 23:37:28] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:37:32] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:37:33] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:38:10] restart: Requested by Console
+[2020-07-02 23:38:10] restart: Resource restarting...
+[2020-07-02 23:38:10] Stopping players
+[2020-07-02 23:38:10] Resource 'players' changed, reloading and starting
+[2020-07-02 23:38:10] Starting players
+[2020-07-02 23:38:10] players restarted successfully
+[2020-07-02 23:38:14] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:38:18] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:38:18] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:38:21] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:39:13] restart: Requested by Console
+[2020-07-02 23:39:13] restart: Resource restarting...
+[2020-07-02 23:39:13] Stopping vehicles
+[2020-07-02 23:39:13] Starting vehicles
+[2020-07-02 23:39:13] vehicles restarted successfully
+[2020-07-02 23:39:30] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:39:30] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:39:33] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:40:39] restart: Requested by Console
+[2020-07-02 23:40:39] restart: Resource restarting...
+[2020-07-02 23:40:39] Stopping players
+[2020-07-02 23:40:39] Starting players
+[2020-07-02 23:40:39] players restarted successfully
+[2020-07-02 23:40:46] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:40:46] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:41:10] restart: Requested by Console
+[2020-07-02 23:41:10] restart: Resource restarting...
+[2020-07-02 23:41:10] Stopping players
+[2020-07-02 23:41:10] Resource 'players' changed, reloading and starting
+[2020-07-02 23:41:10] Starting players
+[2020-07-02 23:41:10] players restarted successfully
+[2020-07-02 23:41:16] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:41:18] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:41:18] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:41:21] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:45:15] restart: Requested by Console
+[2020-07-02 23:45:15] restart: Resource restarting...
+[2020-07-02 23:45:15] Stopping players
+[2020-07-02 23:45:15] Starting players
+[2020-07-02 23:45:15] players restarted successfully
+[2020-07-02 23:45:22] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:45:23] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:46:01] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:46:05] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:46:05] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:46:47] restart: Requested by Console
+[2020-07-02 23:46:47] restart: Resource restarting...
+[2020-07-02 23:46:47] Stopping players
+[2020-07-02 23:46:47] Resource 'players' changed, reloading and starting
+[2020-07-02 23:46:47] Starting players
+[2020-07-02 23:46:47] players restarted successfully
+[2020-07-02 23:46:53] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:46:54] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:46:55] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:51:44] restart: Requested by Console
+[2020-07-02 23:51:44] restart: Resource restarting...
+[2020-07-02 23:51:44] Stopping players
+[2020-07-02 23:51:44] Resource 'players' changed, reloading and starting
+[2020-07-02 23:51:44] Starting players
+[2020-07-02 23:51:44] players restarted successfully
+[2020-07-02 23:51:49] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:51:53] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:51:54] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:51:56] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:53:21] restart: Requested by Console
+[2020-07-02 23:53:21] restart: Resource restarting...
+[2020-07-02 23:53:21] Stopping players
+[2020-07-02 23:53:21] Starting players
+[2020-07-02 23:53:21] players restarted successfully
+[2020-07-02 23:53:29] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:53:29] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:53:33] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:55:33] restart: Requested by Console
+[2020-07-02 23:55:33] restart: Resource restarting...
+[2020-07-02 23:55:33] Stopping players
+[2020-07-02 23:55:33] Resource 'players' changed, reloading and starting
+[2020-07-02 23:55:33] Starting players
+[2020-07-02 23:55:33] players restarted successfully
+[2020-07-02 23:55:40] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:55:40] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:55:44] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:56:43] restart: Requested by Console
+[2020-07-02 23:56:43] restart: Resource restarting...
+[2020-07-02 23:56:43] Stopping players
+[2020-07-02 23:56:43] Resource 'players' changed, reloading and starting
+[2020-07-02 23:56:43] Starting players
+[2020-07-02 23:56:43] players restarted successfully
+[2020-07-02 23:56:50] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:56:51] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-02 23:57:55] * Syntax: restart <resource-name>
+[2020-07-02 23:57:59] restart: Resource could not be found
+[2020-07-02 23:58:03] restart: Requested by Console
+[2020-07-02 23:58:03] restart: Resource restarting...
+[2020-07-02 23:58:03] Stopping players
+[2020-07-02 23:58:03] Resource 'players' changed, reloading and starting
+[2020-07-02 23:58:03] Starting players
+[2020-07-02 23:58:03] players restarted successfully
+[2020-07-02 23:58:07] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 23:58:13] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 23:58:13] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:00:50] restart: Requested by Console
+[2020-07-03 00:00:50] restart: Resource restarting...
+[2020-07-03 00:00:50] Stopping players
+[2020-07-03 00:00:50] Resource 'players' changed, reloading and starting
+[2020-07-03 00:00:50] Starting players
+[2020-07-03 00:00:50] players restarted successfully
+[2020-07-03 00:01:16] restart: Requested by Console
+[2020-07-03 00:01:16] restart: Resource restarting...
+[2020-07-03 00:01:16] Stopping players
+[2020-07-03 00:01:16] Resource 'players' changed, reloading and starting
+[2020-07-03 00:01:16] Starting players
+[2020-07-03 00:01:16] players restarted successfully
+[2020-07-03 00:01:20] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:01:25] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:01:25] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:01:29] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:02:38] restart: Requested by Console
+[2020-07-03 00:02:38] restart: Resource restarting...
+[2020-07-03 00:02:38] Stopping players
+[2020-07-03 00:02:38] Resource 'players' changed, reloading and starting
+[2020-07-03 00:02:38] Starting players
+[2020-07-03 00:02:38] players restarted successfully
+[2020-07-03 00:04:08] restart: Requested by Console
+[2020-07-03 00:04:08] restart: Resource restarting...
+[2020-07-03 00:04:08] Stopping players
+[2020-07-03 00:04:08] Resource 'players' changed, reloading and starting
+[2020-07-03 00:04:08] Starting players
+[2020-07-03 00:04:08] players restarted successfully
+[2020-07-03 00:04:15] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:04:15] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:04:19] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:07:28] restart: Requested by Console
+[2020-07-03 00:07:28] restart: Resource restarting...
+[2020-07-03 00:07:28] Stopping players
+[2020-07-03 00:07:28] Starting players
+[2020-07-03 00:07:28] players restarted successfully
+[2020-07-03 00:07:35] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:07:35] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:07:38] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:09:03] restart: Requested by Console
+[2020-07-03 00:09:03] restart: Resource restarting...
+[2020-07-03 00:09:03] Stopping players
+[2020-07-03 00:09:03] Resource 'players' changed, reloading and starting
+[2020-07-03 00:09:03] Starting players
+[2020-07-03 00:09:03] players restarted successfully
+[2020-07-03 00:09:10] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:09:10] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:09:13] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:09:46] restart: Resource could not be found
+[2020-07-03 00:09:49] restart: Requested by Console
+[2020-07-03 00:09:49] restart: Resource restarting...
+[2020-07-03 00:09:49] Stopping players
+[2020-07-03 00:09:49] Resource 'players' changed, reloading and starting
+[2020-07-03 00:09:49] Starting players
+[2020-07-03 00:09:49] players restarted successfully
+[2020-07-03 00:09:56] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:09:56] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:09:59] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:11:20] restart: Requested by Console
+[2020-07-03 00:11:20] restart: Resource restarting...
+[2020-07-03 00:11:20] Stopping players
+[2020-07-03 00:11:20] Resource 'players' changed, reloading and starting
+[2020-07-03 00:11:20] Starting players
+[2020-07-03 00:11:20] players restarted successfully
+[2020-07-03 00:11:27] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:11:27] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:11:30] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:13:23] restart: Requested by Console
+[2020-07-03 00:13:23] restart: Resource restarting...
+[2020-07-03 00:13:23] Stopping players
+[2020-07-03 00:13:23] Resource 'players' changed, reloading and starting
+[2020-07-03 00:13:23] Starting players
+[2020-07-03 00:13:23] players restarted successfully
+[2020-07-03 00:13:31] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:13:31] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:13:34] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:31:34] restart: Requested by Console
+[2020-07-03 00:31:34] restart: Resource restarting...
+[2020-07-03 00:31:34] Stopping players
+[2020-07-03 00:31:34] Resource 'players' changed, reloading and starting
+[2020-07-03 00:31:34] Starting players
+[2020-07-03 00:31:34] SCRIPT ERROR: players\authentication.lua:53: ')' expected (to close '(' at line 52) near 'end'
+[2020-07-03 00:31:34] ERROR: Loading script failed: players\authentication.lua:53: ')' expected (to close '(' at line 52) near 'end'
+[2020-07-03 00:31:34] players restarted successfully
+[2020-07-03 00:31:43] * Syntax: restart <resource-name>
+[2020-07-03 00:31:46] restart: Requested by Console
+[2020-07-03 00:31:46] restart: Resource restarting...
+[2020-07-03 00:31:46] Stopping players
+[2020-07-03 00:31:46] Resource 'players' changed, reloading and starting
+[2020-07-03 00:31:46] Starting players
+[2020-07-03 00:31:46] SCRIPT ERROR: players\authentication.lua:53: ')' expected (to close '(' at line 52) near 'end'
+[2020-07-03 00:31:46] ERROR: Loading script failed: players\authentication.lua:53: ')' expected (to close '(' at line 52) near 'end'
+[2020-07-03 00:31:46] players restarted successfully
+[2020-07-03 00:32:01] restart: Requested by Console
+[2020-07-03 00:32:01] restart: Resource restarting...
+[2020-07-03 00:32:01] Stopping players
+[2020-07-03 00:32:01] Resource 'players' changed, reloading and starting
+[2020-07-03 00:32:01] Starting players
+[2020-07-03 00:32:01] WARNING: players\authentication.lua:36: Bad argument @ 'addEventHandler' [Expected event-priority at argument 5, got none]
+[2020-07-03 00:32:01] players restarted successfully
+[2020-07-03 00:32:28] restart: Requested by Console
+[2020-07-03 00:32:28] restart: Resource restarting...
+[2020-07-03 00:32:28] Stopping players
+[2020-07-03 00:32:28] Resource 'players' changed, reloading and starting
+[2020-07-03 00:32:28] Starting players
+[2020-07-03 00:32:28] players restarted successfully
+[2020-07-03 00:32:35] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:32:35] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:32:47] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:33:36] * Syntax: restart <resource-name>
+[2020-07-03 00:33:40] restart: Requested by Console
+[2020-07-03 00:33:40] restart: Resource restarting...
+[2020-07-03 00:33:40] Stopping players
+[2020-07-03 00:33:40] Resource 'players' changed, reloading and starting
+[2020-07-03 00:33:40] Starting players
+[2020-07-03 00:33:40] players restarted successfully
+[2020-07-03 00:33:47] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:33:47] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:33:51] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:34:12] restart: Requested by Console
+[2020-07-03 00:34:12] restart: Resource restarting...
+[2020-07-03 00:34:12] Stopping players
+[2020-07-03 00:34:12] Resource 'players' changed, reloading and starting
+[2020-07-03 00:34:12] Starting players
+[2020-07-03 00:34:12] players restarted successfully
+[2020-07-03 00:34:19] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:34:19] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:34:32] LOGIN: (Everyone, Admin) PostmanPat successfully logged in as 'TestUser' (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3)
+[2020-07-03 00:34:39] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:34:56] Server stopped!
+[2020-07-03 00:34:56] Stopping resources......
+[2020-07-03 00:34:56] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 00:34:56] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 00:34:56] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 00:34:56] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-03 00:38:24] Resources: 4 loaded, 0 failed
+[2020-07-03 00:38:24] Starting resources.......
+[2020-07-03 00:38:24] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-03 00:38:24] WARNING: <owner_email_address> not set
+[2020-07-03 00:38:24] Server started and is ready to accept connections!
+[2020-07-03 00:38:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-03 00:38:24] Type 'help' for a list of commands.
+[2020-07-03 00:38:24] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-03 00:38:32] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-03 00:38:32] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:38:37] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:38:51] restart: Requested by Console
+[2020-07-03 00:38:51] restart: Resource restarting...
+[2020-07-03 00:38:51] Stopping players
+[2020-07-03 00:38:51] Starting players
+[2020-07-03 00:38:51] players restarted successfully
+[2020-07-03 00:39:10] restart: Requested by Console
+[2020-07-03 00:39:10] restart: Resource restarting...
+[2020-07-03 00:39:10] Stopping players
+[2020-07-03 00:39:10] Resource 'players' changed, reloading and starting
+[2020-07-03 00:39:10] Starting players
+[2020-07-03 00:39:10] players restarted successfully
+[2020-07-03 00:39:15] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 00:39:21] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 00:39:22] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 00:39:39] Server stopped!
+[2020-07-03 00:39:39] Stopping resources......
+[2020-07-03 00:39:39] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 00:39:39] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 00:39:39] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 00:39:39] Closing SQLite3 database
