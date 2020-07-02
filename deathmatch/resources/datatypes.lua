@@ -6,7 +6,7 @@ if myBooleanVariable then
 
 local myNumber = 7
 
-myNumber = myNumber + 5
+myNumber = myNumber + 3
 
 local myStringVariable = 'minecraft'
 
