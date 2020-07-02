@@ -4,7 +4,7 @@ local myBooleanVariable = true
 
 if myBooleanVariable then
 
-local myNumber = 7
+local myNumber = 5
 
 myNumber = myNumber + 3
 
