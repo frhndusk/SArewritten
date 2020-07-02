@@ -1,0 +1,1562 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 16:48:57] Compacting accounts database 'internal.db' ...
+[2020-06-29 16:48:59] Resource 'mapmanager' requests some acl rights. Use the command 'aclrequest list mapmanager'
+[2020-06-29 16:49:01] Resources: 195 loaded, 0 failed
+[2020-06-29 16:49:01] Compacting database 'registry.db' ...
+[2020-06-29 16:49:01] Starting resources...
+[2020-06-29 16:49:01] Server minclientversion is now 1.3.0-9.04311
+[2020-06-29 16:49:02] Server minclientversion is now 1.5.6-9.16362
+[2020-06-29 16:49:02] Gamemode 'play' started.
+[2020-06-29 16:49:02] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 16:49:02] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 16:49:02] WARNING: <owner_email_address> not set
+[2020-06-29 16:49:02] Server started and is ready to accept connections!
+[2020-06-29 16:49:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 16:49:02] Type 'help' for a list of commands.
+[2020-06-29 16:51:10] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 16:51:10] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20565.0)
+[2020-06-29 16:51:14] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 16:51:56] Server stopped!
+[2020-06-29 16:51:56] Stopping resources......................
+[2020-06-29 16:51:56] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:08:47] ERROR: no such table: write_test
+[2020-06-29 17:08:47] ERROR: Errors were encountered updating 'internal.db' database
+[2020-06-29 17:08:47] ERROR: Database might have incorrect file permissions, or locked by another process, or damaged.
+[2020-06-29 17:08:47] ERROR: See - http://wiki.multitheftauto.com/wiki/fixdb
+[2020-06-29 17:08:47] ERROR: ************************
+[2020-06-29 17:08:47] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:08:47] Loading of resource 'players' failed
+[2020-06-29 17:08:47] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:08:47] Resources: 0 loaded, 1 failed
+[2020-06-29 17:08:47] Starting resources...
+[2020-06-29 17:08:47] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:08:47] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:08:47] WARNING: <owner_email_address> not set
+[2020-06-29 17:08:47] Server started and is ready to accept connections!
+[2020-06-29 17:08:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:08:47] Type 'help' for a list of commands.
+[2020-06-29 17:08:47] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:08:48] Server stopped!
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:08:56] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:08:56] Loading of resource 'players' failed
+[2020-06-29 17:08:56] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:08:56] Resources: 0 loaded, 1 failed
+[2020-06-29 17:08:56] Starting resources...
+[2020-06-29 17:08:56] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:08:56] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:08:56] WARNING: <owner_email_address> not set
+[2020-06-29 17:08:56] Server started and is ready to accept connections!
+[2020-06-29 17:08:56] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:08:56] Type 'help' for a list of commands.
+[2020-06-29 17:08:56] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:09:20] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:09:20] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20565.0)
+[2020-06-29 17:09:20] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:09:45] QUIT: PenguinTrashed left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:10:27] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:10:27] Loading of resource 'players' failed
+[2020-06-29 17:10:27] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:10:27] Resources: 0 loaded, 1 failed
+[2020-06-29 17:10:27] ERROR: Could not bind the server on interface '' and port '22003'!
+[2020-06-29 17:10:28] Server stopped!
+[2020-06-29 17:10:28] Stopping resources...
+[2020-06-29 17:10:28] Closing SQLite3 database
+[2020-06-29 17:11:39] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:11:47] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:12:53] Server stopped!
+[2020-06-29 17:12:53] Stopping resources...
+[2020-06-29 17:12:53] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:12:57] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:12:57] Loading of resource 'players' failed
+[2020-06-29 17:12:57] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:12:57] Resources: 0 loaded, 1 failed
+[2020-06-29 17:12:57] Starting resources...
+[2020-06-29 17:12:57] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:12:57] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:12:57] WARNING: <owner_email_address> not set
+[2020-06-29 17:12:57] Server started and is ready to accept connections!
+[2020-06-29 17:12:57] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:12:57] Type 'help' for a list of commands.
+[2020-06-29 17:12:57] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:13:11] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:13:11] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:13:11] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:13:45] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 17:13:48] Server stopped!
+[2020-06-29 17:13:48] Stopping resources...
+[2020-06-29 17:13:48] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:14:52] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:14:52] Loading of resource 'players' failed
+[2020-06-29 17:14:52] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:14:52] Resources: 0 loaded, 1 failed
+[2020-06-29 17:14:53] Starting resources...
+[2020-06-29 17:14:53] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:14:53] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:14:53] WARNING: <owner_email_address> not set
+[2020-06-29 17:14:53] Server started and is ready to accept connections!
+[2020-06-29 17:14:53] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:14:53] Type 'help' for a list of commands.
+[2020-06-29 17:14:53] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:15:05] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:15:05] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:15:06] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:15:32] QUIT: PenguinTrashed left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:19:23] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:19:23] Loading of resource 'players' failed
+[2020-06-29 17:19:23] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:19:23] Resources: 0 loaded, 1 failed
+[2020-06-29 17:19:23] Starting resources...
+[2020-06-29 17:19:23] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:19:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:19:23] WARNING: <owner_email_address> not set
+[2020-06-29 17:19:23] Server started and is ready to accept connections!
+[2020-06-29 17:19:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:19:23] Type 'help' for a list of commands.
+[2020-06-29 17:19:23] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:19:25] Server stopped!
+[2020-06-29 17:19:25] Stopping resources...
+[2020-06-29 17:19:25] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:19:30] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:19:30] Loading of resource 'players' failed
+[2020-06-29 17:19:30] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:19:30] Resources: 0 loaded, 1 failed
+[2020-06-29 17:19:30] Starting resources...
+[2020-06-29 17:19:30] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:19:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:19:30] WARNING: <owner_email_address> not set
+[2020-06-29 17:19:30] Server started and is ready to accept connections!
+[2020-06-29 17:19:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:19:30] Type 'help' for a list of commands.
+[2020-06-29 17:19:30] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:19:50] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:19:50] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:19:50] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:20:48] Server stopped!
+[2020-06-29 17:20:48] Stopping resources...
+[2020-06-29 17:20:48] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:21:14] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:21:14] Loading of resource 'players' failed
+[2020-06-29 17:21:14] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:21:14] Resources: 0 loaded, 1 failed
+[2020-06-29 17:21:14] Starting resources...
+[2020-06-29 17:21:14] ERROR: Unable to start resource players; Couldn't find script player.lua for resource players
+[2020-06-29 17:21:14] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:21:14] WARNING: <owner_email_address> not set
+[2020-06-29 17:21:14] Server started and is ready to accept connections!
+[2020-06-29 17:21:14] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:21:14] Type 'help' for a list of commands.
+[2020-06-29 17:21:14] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:22:38] Server stopped!
+[2020-06-29 17:22:38] Stopping resources...
+[2020-06-29 17:22:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:22:41] ERROR: Couldn't find script player.lua for resource players
+[2020-06-29 17:22:41] Loading of resource 'players' failed
+[2020-06-29 17:22:41] ERROR: Problem with resource: players; Couldn't find script player.lua for resource players
+[2020-06-29 17:22:41] Resources: 0 loaded, 1 failed
+[2020-06-29 17:22:41] Starting resources...
+[2020-06-29 17:22:41] ERROR: Couldn't find resource players.lua. Check it exists.
+[2020-06-29 17:22:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:22:41] WARNING: <owner_email_address> not set
+[2020-06-29 17:22:41] Server started and is ready to accept connections!
+[2020-06-29 17:22:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:22:41] Type 'help' for a list of commands.
+[2020-06-29 17:22:41] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:23:09] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:23:09] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:23:13] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:23:22] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 17:24:24] Server stopped!
+[2020-06-29 17:24:24] Stopping resources...
+[2020-06-29 17:24:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:25:10] Resources: 1 loaded, 0 failed
+[2020-06-29 17:25:11] Starting resources...
+[2020-06-29 17:25:11] ERROR: Couldn't find resource players.lua. Check it exists.
+[2020-06-29 17:25:11] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:25:11] WARNING: <owner_email_address> not set
+[2020-06-29 17:25:11] Server started and is ready to accept connections!
+[2020-06-29 17:25:11] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:25:11] Type 'help' for a list of commands.
+[2020-06-29 17:25:11] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:25:18] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:25:18] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:25:22] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:25:40] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 17:26:10] Server stopped!
+[2020-06-29 17:26:10] Stopping resources...
+[2020-06-29 17:26:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:26:16] Resources: 1 loaded, 0 failed
+[2020-06-29 17:26:16] Starting resources....
+[2020-06-29 17:26:16] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 17:26:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:26:16] WARNING: <owner_email_address> not set
+[2020-06-29 17:26:16] Server started and is ready to accept connections!
+[2020-06-29 17:26:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:26:16] Type 'help' for a list of commands.
+[2020-06-29 17:26:32] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:26:32] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:26:32] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:28:03] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 17:28:09] Server stopped!
+[2020-06-29 17:28:09] Stopping resources....
+[2020-06-29 17:28:09] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:40:32] Resources: 2 loaded, 0 failed
+[2020-06-29 17:40:32] Starting resources....
+[2020-06-29 17:40:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 17:40:32] WARNING: <owner_email_address> not set
+[2020-06-29 17:40:32] Server started and is ready to accept connections!
+[2020-06-29 17:40:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 17:40:32] Type 'help' for a list of commands.
+[2020-06-29 17:40:32] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 17:40:56] Resources: 2 loaded, 0 failed
+[2020-06-29 17:40:56] ERROR: Could not bind the server on interface '' and port '22003'!
+[2020-06-29 17:40:57] Server stopped!
+[2020-06-29 17:40:57] Stopping resources...
+[2020-06-29 17:40:57] Closing SQLite3 database
+[2020-06-29 17:41:31] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 17:41:31] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:41:34] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:42:47] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 17:45:04] start: Requested by Console
+[2020-06-29 17:45:04] Starting vehicles
+[2020-06-29 17:45:04] start: Resource 'vehicles' started
+[2020-06-29 17:45:17] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:45:17] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 17:56:26] start: Requested by Console
+[2020-06-29 17:56:26] start: Resource is already running
+[2020-06-29 17:57:13] stop: Requested by Console
+[2020-06-29 17:57:13] stop: Resource stopping
+[2020-06-29 17:57:13] Stopping vehicles
+[2020-06-29 17:58:08] start: Requested by Console
+[2020-06-29 17:58:08] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 17:58:08] Starting vehicles
+[2020-06-29 17:58:08] start: Resource 'vehicles' started
+[2020-06-29 17:59:50] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 17:59:55] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 17:59:55] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 18:01:17] stop: Requested by Console
+[2020-06-29 18:01:17] stop: Resource stopping
+[2020-06-29 18:01:17] Stopping vehicles
+[2020-06-29 18:01:20] start: Requested by Console
+[2020-06-29 18:01:20] Starting vehicles
+[2020-06-29 18:01:20] start: Resource 'vehicles' started
+[2020-06-29 18:03:58] restart: Requested by Console
+[2020-06-29 18:03:58] restart: Resource restarting...
+[2020-06-29 18:03:58] Stopping vehicles
+[2020-06-29 18:03:58] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 18:03:58] Starting vehicles
+[2020-06-29 18:03:58] vehicles restarted successfully
+[2020-06-29 18:05:50] restart: Requested by Console
+[2020-06-29 18:05:50] restart: Resource restarting...
+[2020-06-29 18:05:50] Stopping vehicles
+[2020-06-29 18:05:50] Starting vehicles
+[2020-06-29 18:05:50] vehicles restarted successfully
+[2020-06-29 18:06:41] restart: Requested by Console
+[2020-06-29 18:06:41] restart: Resource restarting...
+[2020-06-29 18:06:41] Stopping vehicles
+[2020-06-29 18:06:41] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 18:06:41] Starting vehicles
+[2020-06-29 18:06:41] vehicles restarted successfully
+[2020-06-29 18:08:39] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 18:08:45] Server stopped!
+[2020-06-29 18:08:45] Stopping resources.....
+[2020-06-29 18:08:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 18:47:07] Resources: 3 loaded, 0 failed
+[2020-06-29 18:47:07] Starting resources....
+[2020-06-29 18:47:07] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 18:47:07] WARNING: <owner_email_address> not set
+[2020-06-29 18:47:07] Server started and is ready to accept connections!
+[2020-06-29 18:47:07] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 18:47:07] Type 'help' for a list of commands.
+[2020-06-29 18:47:07] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 18:47:26] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 18:47:26] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 18:47:26] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 18:49:50] Server stopped!
+[2020-06-29 18:49:50] Stopping resources....
+[2020-06-29 18:49:50] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 18:49:59] Resources: 3 loaded, 0 failed
+[2020-06-29 18:50:00] Starting resources......
+[2020-06-29 18:50:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 18:50:00] WARNING: <owner_email_address> not set
+[2020-06-29 18:50:00] Server started and is ready to accept connections!
+[2020-06-29 18:50:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 18:50:00] Type 'help' for a list of commands.
+[2020-06-29 18:50:00] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 18:50:15] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 18:50:15] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 18:50:15] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 19:07:46] restart: Requested by Console
+[2020-06-29 19:07:46] restart: Resource restarting...
+[2020-06-29 19:07:46] Stopping vehicles
+[2020-06-29 19:07:46] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:07:46] Starting vehicles
+[2020-06-29 19:07:46] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2020-06-29 19:07:46] vehicles restarted successfully
+[2020-06-29 19:08:17] restart: Requested by Console
+[2020-06-29 19:08:17] restart: Resource restarting...
+[2020-06-29 19:08:17] Stopping vehicles
+[2020-06-29 19:08:17] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:08:17] Starting vehicles
+[2020-06-29 19:08:17] vehicles restarted successfully
+[2020-06-29 19:08:17] ERROR: vehicles\vehicles.lua:22: attempt to call global 'dbPull' (a nil value)
+[2020-06-29 19:11:15] restart: Requested by Console
+[2020-06-29 19:11:15] restart: Resource restarting...
+[2020-06-29 19:11:15] Stopping vehicles
+[2020-06-29 19:11:15] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:11:15] Starting vehicles
+[2020-06-29 19:11:15] vehicles restarted successfully
+[2020-06-29 19:11:46] restart: Requested by Console
+[2020-06-29 19:11:46] restart: Resource restarting...
+[2020-06-29 19:11:46] Stopping vehicles
+[2020-06-29 19:11:46] Starting vehicles
+[2020-06-29 19:11:46] vehicles restarted successfully
+[2020-06-29 19:13:22] WARNING: vehicles\vehicles.lua:43: Database result uncollected after 5 minutes. [Query: SELECT * FROM vehicles]
+[2020-06-29 19:17:39] restart: Requested by Console
+[2020-06-29 19:17:39] restart: Resource restarting...
+[2020-06-29 19:17:39] Stopping vehicles
+[2020-06-29 19:17:39] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:17:39] Starting vehicles
+[2020-06-29 19:17:39] vehicles restarted successfully
+[2020-06-29 19:17:51] WARNING: vehicles\vehicles.lua:13: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 19:17:51] ERROR: vehicles\vehicles.lua:14: attempt to index local 'results' (a boolean value)
+[2020-06-29 19:18:05] WARNING: vehicles\vehicles.lua:13: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 19:18:05] ERROR: vehicles\vehicles.lua:14: attempt to index local 'results' (a boolean value)
+[2020-06-29 19:18:35] restart: Requested by Console
+[2020-06-29 19:18:35] restart: Resource restarting...
+[2020-06-29 19:18:35] Stopping vehicles
+[2020-06-29 19:18:35] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:18:35] Starting vehicles
+[2020-06-29 19:18:35] vehicles restarted successfully
+[2020-06-29 19:18:50] WARNING: vehicles\vehicles.lua:13: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 19:18:56] ERROR: vehicles\vehicles.lua:14: attempt to index local 'results' (a boolean value)
+[2020-06-29 19:19:23] WARNING: vehicles\vehicles.lua:13: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 19:19:23] ERROR: vehicles\vehicles.lua:14: attempt to index local 'results' (a boolean value)
+[2020-06-29 19:22:53] WARNING: vehicles\vehicles.lua:12: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 19:23:13] WARNING: vehicles\vehicles.lua:12: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 19:23:53] WARNING: vehicles\vehicles.lua:12: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 19:24:23] WARNING: vehicles\vehicles.lua:12: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 19:41:14] restart: Requested by Console
+[2020-06-29 19:41:14] restart: Resource restarting...
+[2020-06-29 19:41:14] Stopping vehicles
+[2020-06-29 19:41:14] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:41:14] Starting vehicles
+[2020-06-29 19:41:14] vehicles restarted successfully
+[2020-06-29 19:41:40] restart: Resource could not be found
+[2020-06-29 19:41:44] restart: Requested by Console
+[2020-06-29 19:41:44] restart: Resource restarting...
+[2020-06-29 19:41:44] Stopping vehicles
+[2020-06-29 19:41:44] Starting vehicles
+[2020-06-29 19:41:44] vehicles restarted successfully
+[2020-06-29 19:44:04] restart: Resource could not be found
+[2020-06-29 19:44:09] restart: Requested by Console
+[2020-06-29 19:44:09] restart: Resource restarting...
+[2020-06-29 19:44:09] Stopping vehicles
+[2020-06-29 19:44:09] Starting vehicles
+[2020-06-29 19:44:09] vehicles restarted successfully
+[2020-06-29 19:44:30] restart: Requested by Console
+[2020-06-29 19:44:30] restart: Resource restarting...
+[2020-06-29 19:44:30] Stopping vehicles
+[2020-06-29 19:44:30] Starting vehicles
+[2020-06-29 19:44:30] vehicles restarted successfully
+[2020-06-29 19:45:20] stop: Requested by Console
+[2020-06-29 19:45:20] stop: Resource stopping
+[2020-06-29 19:45:20] Stopping vehicles
+[2020-06-29 19:45:20] * Syntax: start <resource-name>
+[2020-06-29 19:45:24] start: Requested by Console
+[2020-06-29 19:45:24] Starting vehicles
+[2020-06-29 19:45:24] start: Resource 'vehicles' started
+[2020-06-29 19:46:19] restart: Requested by Console
+[2020-06-29 19:46:19] restart: Resource restarting...
+[2020-06-29 19:46:19] Stopping vehicles
+[2020-06-29 19:46:19] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:46:19] Starting vehicles
+[2020-06-29 19:46:19] SCRIPT ERROR: vehicles\vehicles.lua:36: unexpected symbol near '?'
+[2020-06-29 19:46:19] ERROR: Loading script failed: vehicles\vehicles.lua:36: unexpected symbol near '?'
+[2020-06-29 19:46:19] vehicles restarted successfully
+[2020-06-29 19:47:41] restart: Requested by Console
+[2020-06-29 19:47:41] restart: Resource restarting...
+[2020-06-29 19:47:41] Stopping vehicles
+[2020-06-29 19:47:41] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 19:47:41] Starting vehicles
+[2020-06-29 19:47:41] vehicles restarted successfully
+[2020-06-29 19:48:01] restart: Requested by Console
+[2020-06-29 19:48:01] restart: Resource restarting...
+[2020-06-29 19:48:01] Stopping vehicles
+[2020-06-29 19:48:01] Starting vehicles
+[2020-06-29 19:48:01] vehicles restarted successfully
+[2020-06-29 19:54:27] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2020-06-29 20:10:06] restart: Requested by Console
+[2020-06-29 20:10:06] restart: Resource restarting...
+[2020-06-29 20:10:06] Stopping vehicles
+[2020-06-29 20:10:06] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 20:10:06] Starting vehicles
+[2020-06-29 20:10:06] SCRIPT ERROR: vehicles\vehicles.lua:57: ')' expected near 'id'
+[2020-06-29 20:10:06] ERROR: Loading script failed: vehicles\vehicles.lua:57: ')' expected near 'id'
+[2020-06-29 20:10:06] vehicles restarted successfully
+[2020-06-29 20:10:06] WARNING: vehicles\vehicles.lua:55: dbExec failed; (1) SQL logic error
+[2020-06-29 20:26:17] restart: Requested by Console
+[2020-06-29 20:26:17] restart: Resource restarting...
+[2020-06-29 20:26:17] Stopping vehicles
+[2020-06-29 20:26:17] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 20:26:17] Starting vehicles
+[2020-06-29 20:26:17] vehicles restarted successfully
+[2020-06-29 20:26:17] WARNING: vehicles\vehicles.lua:33: dbPoll failed; near "AND": syntax error
+[2020-06-29 20:26:17] ERROR: vehicles\vehicles.lua:35: bad argument #1 to 'pairs' (table expected, got boolean)
+[2020-06-29 20:45:10] restart: Requested by Console
+[2020-06-29 20:45:10] restart: Resource restarting...
+[2020-06-29 20:45:10] Stopping vehicles
+[2020-06-29 20:45:10] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 20:45:10] Starting vehicles
+[2020-06-29 20:45:10] vehicles restarted successfully
+[2020-06-29 20:45:10] WARNING: vehicles\vehicles.lua:32: dbPoll failed; SQL logic error
+[2020-06-29 20:45:10] ERROR: vehicles\vehicles.lua:34: bad argument #1 to 'pairs' (table expected, got boolean)
+[2020-06-29 20:50:59] restart: Requested by Console
+[2020-06-29 20:50:59] restart: Resource restarting...
+[2020-06-29 20:50:59] Stopping vehicles
+[2020-06-29 20:50:59] Starting vehicles
+[2020-06-29 20:50:59] vehicles restarted successfully
+[2020-06-29 20:51:29] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 20:51:30] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-06-29 20:51:58] restart: Requested by Console
+[2020-06-29 20:51:58] restart: Resource restarting...
+[2020-06-29 20:51:58] Stopping vehicles
+[2020-06-29 20:51:58] Starting vehicles
+[2020-06-29 20:51:58] vehicles restarted successfully
+[2020-06-29 20:51:58] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "rx": syntax error
+[2020-06-29 20:52:33] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-29 20:52:37] Server stopped!
+[2020-06-29 20:52:37] Stopping resources.....
+[2020-06-29 20:52:37] ERROR: vehicles\vehicles.lua:49: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 20:52:37] WARNING: vehicles\vehicles.lua:57: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 20:52:37] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 21:03:08] Resources: 3 loaded, 0 failed
+[2020-06-29 21:03:08] Starting resources......
+[2020-06-29 21:03:08] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 21:03:08] WARNING: <owner_email_address> not set
+[2020-06-29 21:03:08] Server started and is ready to accept connections!
+[2020-06-29 21:03:08] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 21:03:08] Type 'help' for a list of commands.
+[2020-06-29 21:03:08] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-29 21:03:12] start: Requested by Console
+[2020-06-29 21:03:12] start: Resource is already running
+[2020-06-29 21:03:17] restart: Requested by Console
+[2020-06-29 21:03:17] restart: Resource restarting...
+[2020-06-29 21:03:17] Stopping vehicles
+[2020-06-29 21:03:17] Starting vehicles
+[2020-06-29 21:03:17] vehicles restarted successfully
+[2020-06-29 21:04:04] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 21:04:04] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-29 21:04:09] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-29 21:04:27] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 21:04:27] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-06-29 21:04:52] restart: Requested by Console
+[2020-06-29 21:04:52] restart: Resource restarting...
+[2020-06-29 21:04:52] Stopping vehicles
+[2020-06-29 21:04:52] Starting vehicles
+[2020-06-29 21:04:52] vehicles restarted successfully
+[2020-06-29 21:04:52] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "rotX": syntax error
+[2020-06-29 21:05:22] restart: Requested by Console
+[2020-06-29 21:05:22] restart: Resource restarting...
+[2020-06-29 21:05:22] Stopping vehicles
+[2020-06-29 21:05:22] Starting vehicles
+[2020-06-29 21:05:22] vehicles restarted successfully
+[2020-06-29 21:05:22] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "rotX": syntax error
+[2020-06-29 21:06:39] restart: Requested by Console
+[2020-06-29 21:06:39] restart: Resource restarting...
+[2020-06-29 21:06:39] Stopping vehicles
+[2020-06-29 21:06:39] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 21:06:39] Starting vehicles
+[2020-06-29 21:06:39] vehicles restarted successfully
+[2020-06-29 21:06:39] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "rotX": syntax error
+[2020-06-29 21:09:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 21:10:23] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 21:10:23] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-06-29 21:10:39] restart: Requested by Console
+[2020-06-29 21:10:39] restart: Resource restarting...
+[2020-06-29 21:10:39] Stopping vehicles
+[2020-06-29 21:10:39] Starting vehicles
+[2020-06-29 21:10:39] vehicles restarted successfully
+[2020-06-29 21:10:39] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "WHERE": syntax error
+[2020-06-29 21:10:45] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "WHERE": syntax error
+[2020-06-29 21:15:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 21:19:22] restart: Requested by Console
+[2020-06-29 21:19:22] restart: Resource restarting...
+[2020-06-29 21:19:22] Stopping vehicles
+[2020-06-29 21:19:22] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 21:19:22] Starting vehicles
+[2020-06-29 21:19:22] vehicles restarted successfully
+[2020-06-29 21:19:22] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "WHERE": syntax error
+[2020-06-29 21:19:28] WARNING: vehicles\vehicles.lua:57: dbExec failed; (1) near "WHERE": syntax error
+[2020-06-29 21:20:27] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-29 21:20:27] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-06-29 21:20:41] restart: Requested by Console
+[2020-06-29 21:20:41] restart: Resource restarting...
+[2020-06-29 21:20:41] Stopping vehicles
+[2020-06-29 21:20:41] Starting vehicles
+[2020-06-29 21:20:41] vehicles restarted successfully
+[2020-06-29 21:21:27] restart: Requested by Console
+[2020-06-29 21:21:27] restart: Resource restarting...
+[2020-06-29 21:21:27] Stopping vehicles
+[2020-06-29 21:21:27] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 21:21:27] Starting vehicles
+[2020-06-29 21:21:27] vehicles restarted successfully
+[2020-06-29 21:21:49] restart: Requested by Console
+[2020-06-29 21:21:49] restart: Resource restarting...
+[2020-06-29 21:21:49] Stopping vehicles
+[2020-06-29 21:21:49] Starting vehicles
+[2020-06-29 21:21:49] vehicles restarted successfully
+[2020-06-29 21:25:26] restart: Requested by Console
+[2020-06-29 21:25:26] restart: Resource restarting...
+[2020-06-29 21:25:26] Stopping vehicles
+[2020-06-29 21:25:26] Resource 'vehicles' changed, reloading and starting
+[2020-06-29 21:25:26] Starting vehicles
+[2020-06-29 21:25:26] vehicles restarted successfully
+[2020-06-29 21:25:31] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-06-29 21:25:44] restart: Requested by Console
+[2020-06-29 21:25:44] restart: Resource restarting...
+[2020-06-29 21:25:44] Stopping vehicles
+[2020-06-29 21:25:44] Starting vehicles
+[2020-06-29 21:25:44] vehicles restarted successfully
+[2020-06-29 22:10:01] Server stopped!
+[2020-06-29 22:10:01] Stopping resources.....
+[2020-06-29 22:10:01] ERROR: vehicles\vehicles.lua:49: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 22:10:01] WARNING: vehicles\vehicles.lua:57: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 22:10:01] WARNING: vehicles\vehicles.lua:57: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x2]
+[2020-06-29 22:10:01] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-30 15:33:53] Resources: 3 loaded, 0 failed
+[2020-06-30 15:33:53] Starting resources......
+[2020-06-30 15:33:53] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-30 15:33:53] WARNING: <owner_email_address> not set
+[2020-06-30 15:33:53] Server started and is ready to accept connections!
+[2020-06-30 15:33:53] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-30 15:33:53] Type 'help' for a list of commands.
+[2020-06-30 15:33:53] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-30 15:34:53] Server stopped!
+[2020-06-30 15:34:53] Stopping resources.....
+[2020-06-30 15:34:53] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-30 15:34:53] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-30 15:34:53] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x2]
+[2020-06-30 15:34:53] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-30 20:34:59] Resources: 3 loaded, 0 failed
+[2020-06-30 20:34:59] Starting resources......
+[2020-06-30 20:34:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-30 20:34:59] WARNING: <owner_email_address> not set
+[2020-06-30 20:34:59] Server started and is ready to accept connections!
+[2020-06-30 20:34:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-30 20:34:59] Type 'help' for a list of commands.
+[2020-06-30 20:34:59] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-30 20:45:00] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-30 20:45:00] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-06-30 20:45:05] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-06-30 20:45:25] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-06-30 20:45:25] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-06-30 20:45:50] restart: Requested by Console
+[2020-06-30 20:45:50] restart: Resource restarting...
+[2020-06-30 20:45:50] Stopping vehicles
+[2020-06-30 20:45:50] Starting vehicles
+[2020-06-30 20:45:50] vehicles restarted successfully
+[2020-06-30 20:46:18] restart: Requested by Console
+[2020-06-30 20:46:18] restart: Resource restarting...
+[2020-06-30 20:46:18] Stopping vehicles
+[2020-06-30 20:46:18] Starting vehicles
+[2020-06-30 20:46:18] vehicles restarted successfully
+[2020-06-30 20:46:38] QUIT: PenguinTrashed left the game [Quit]
+[2020-06-30 20:50:32] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-30 21:09:05] Resources: 3 loaded, 0 failed
+[2020-06-30 21:09:05] Starting resources......
+[2020-06-30 21:09:05] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-30 21:09:05] WARNING: <owner_email_address> not set
+[2020-06-30 21:09:05] Server started and is ready to accept connections!
+[2020-06-30 21:09:05] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-30 21:09:05] Type 'help' for a list of commands.
+[2020-06-30 21:09:05] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-06-30 22:06:06] Server stopped!
+[2020-06-30 22:06:06] Stopping resources.....
+[2020-06-30 22:06:06] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-30 22:06:06] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-30 22:06:06] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-06-30 22:06:06] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 16:32:41] Resources: 3 loaded, 0 failed
+[2020-07-01 16:32:41] Starting resources......
+[2020-07-01 16:32:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 16:32:41] WARNING: <owner_email_address> not set
+[2020-07-01 16:32:41] Server started and is ready to accept connections!
+[2020-07-01 16:32:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 16:32:41] Type 'help' for a list of commands.
+[2020-07-01 16:32:42] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+Testing ports...
+Port 22126 UDP is closed. Players can not browse!
+Port 22003 UDP is closed. Players can not join!
+Port 22005 TCP is closed. Players can not download!
+Testing ports...
+Port 22126 UDP is open.
+Port 22003 UDP is closed. Players can not join!
+Port 22005 TCP is closed. Players can not download!
+Testing ports...
+Port 22126 UDP is open.
+Port 22003 UDP is open.
+Port 22005 TCP is open.
+[2020-07-01 16:58:02] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-01 16:58:02] CONNECT: PenguinTrashed connected (IP: 86.135.138.64  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 16:58:07] JOIN: PenguinTrashed joined the game (IP: 86.135.138.64)
+[2020-07-01 16:58:12] QUIT: PenguinTrashed left the game [Quit]
+[2020-07-01 16:58:42] CONNECT: BoundlessPickax60 connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 16:58:45] JOIN: BoundlessPickax60 joined the game (IP: 197.9.200.6)
+[2020-07-01 17:00:36] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:00:36] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:00:42] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x5]
+[2020-07-01 17:00:42] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x5]
+[2020-07-01 17:00:46] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:00:46] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-07-01 17:01:12] QUIT: BoundlessPickax60 left the game [Quit]
+[2020-07-01 17:01:17] CONNECT: BoundlessPickax60 connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:01:17] JOIN: BoundlessPickax60 joined the game (IP: 197.9.200.6)
+[2020-07-01 17:01:34] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:01:34] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:01:40] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x2]
+[2020-07-01 17:01:40] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x2]
+[2020-07-01 17:02:13] start: Resource could not be found
+[2020-07-01 17:02:18] stop: Requested by Console
+[2020-07-01 17:02:18] stop: Resource stopping
+[2020-07-01 17:02:18] Stopping vehicles
+[2020-07-01 17:02:40] start: Requested by Console
+[2020-07-01 17:02:40] Starting vehicles
+[2020-07-01 17:02:40] start: Resource 'vehicles' started
+[2020-07-01 17:02:49] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:02:49] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:02:55] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x2]
+[2020-07-01 17:02:55] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x2]
+[2020-07-01 17:03:01] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:03:01] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:03:07] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x8]
+[2020-07-01 17:03:07] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x8]
+[2020-07-01 17:03:28] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:03:28] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:03:37] NICK: BoundlessPickax60 is now known as Showzer
+[2020-07-01 17:03:45] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:03:45] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:03:45] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:03:51] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x7]
+[2020-07-01 17:03:51] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x7]
+[2020-07-01 17:03:51] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:03:52] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:03:52] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:03:58] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x13]
+[2020-07-01 17:03:58] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x13]
+[2020-07-01 17:04:19] CONNECT: EndurableCleaner30 connected (IP: 82.169.146.55  Serial: 7F2E03F4DA412651CCE5CFD085E78FB4  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:04:34] JOIN: EndurableCleaner30 joined the game (IP: 82.169.146.55)
+[2020-07-01 17:05:09] CHAT: Showzer: Hey noah
+[2020-07-01 17:05:11] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:11] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:12] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:12] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:12] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:13] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:13] CHAT: Showzer: fuck your mom
+[2020-07-01 17:05:14] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:15] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:15] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:15] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:16] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:16] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:16] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:16] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:17] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:17] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:17] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:18] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:18] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:18] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:19] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:19] CHAT: Showzer: fuck your mom noah
+[2020-07-01 17:05:45] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:05:45] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:05:46] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:05:48] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:05:48] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:05:48] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:05:48] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:05:49] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x2]
+[2020-07-01 17:05:49] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x2]
+[2020-07-01 17:05:49] WARNING: vehicles\vehicles.lua:11: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2020-07-01 17:05:49] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:05:49] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:05:55] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:05:55] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:05:56] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:05:56] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:05:56] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:06] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:16] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:25] CHAT: PenguinTrashed: sym
+[2020-07-01 17:06:26] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:36] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:45] stop: Requested by Console
+[2020-07-01 17:06:45] stop: Resource stopping
+[2020-07-01 17:06:45] Stopping vehicles
+[2020-07-01 17:06:46] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:06:59] start: Resource could not be found
+[2020-07-01 17:07:04] start: Requested by Console
+[2020-07-01 17:07:04] Starting vehicles
+[2020-07-01 17:07:04] start: Resource 'vehicles' started
+[2020-07-01 17:07:04] WARNING: vehicles\vehicles.lua:35: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2020-07-01 17:07:04] WARNING: vehicles\vehicles.lua:36: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]
+[2020-07-01 17:07:04] ERROR: vehicles\vehicles.lua:37: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-01 17:07:10] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:07:32] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:07:32] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:07:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:21] CHAT: EndurableCleaner30: you mom big bitch
+[2020-07-01 17:08:23] CHAT: EndurableCleaner30: you mom big bitch
+[2020-07-01 17:08:24] CHAT: EndurableCleaner30: you mom big bitch
+[2020-07-01 17:08:27] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:08:59] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:08:59] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:09:05] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x3]
+[2020-07-01 17:09:05] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x3]
+[2020-07-01 17:09:05] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:09:05] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:09:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:09:10] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:09:10] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:09:10] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:09:10] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:09:16] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x2]
+[2020-07-01 17:09:16] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x2]
+[2020-07-01 17:09:17] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:09:17] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:09:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:09:27] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:09:33] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:09:33] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:09:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:09:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:09:49] QUIT: PenguinTrashed left the game [Quit]
+[2020-07-01 17:09:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:27] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:10:27] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:10:33] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:33] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:10:33] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:10:34] NICK: Showzer is now known as TheUndertaleFrisk
+[2020-07-01 17:10:35] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:10:35] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:10:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:56] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:10:56] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:10:57] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x4]
+[2020-07-01 17:10:57] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x4]
+[2020-07-01 17:10:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:10:57] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:10:57] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:11:03] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x14]
+[2020-07-01 17:11:03] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x14]
+[2020-07-01 17:11:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:11:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:11:18] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:11:18] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:11:26] CONNECT: PenguinTrashed connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:11:27] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:11:30] JOIN: PenguinTrashed joined the game (IP: 192.168.56.1)
+[2020-07-01 17:11:33] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:11:33] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:11:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:11:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:11:55] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:11:55] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:11:56] NICK: TheUndertaleFrisk is now known as NoosBoos
+[2020-07-01 17:11:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:12:02] NICK: EndurableCleaner30 is now known as Nostalgia
+[2020-07-01 17:12:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:12:09] CHAT: Nostalgia: test
+[2020-07-01 17:12:12] CHAT: NoosBoos: t
+[2020-07-01 17:12:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:12:27] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:12:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:12:39] NICK: PenguinTrashed is now known as niCe
+[2020-07-01 17:12:45] CHAT: niCe: ahoj
+[2020-07-01 17:12:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:12:48] CHAT: NoosBoos: ahoy
+[2020-07-01 17:12:49] CHAT: NoosBoos: nigga
+[2020-07-01 17:12:53] CHAT: niCe: ahoj you are banned
+[2020-07-01 17:12:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:13:02] CHAT: NoosBoos: ahoj in your mom when she screams
+[2020-07-01 17:13:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:13:17] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:13:17] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:13:17] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:13:17] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:13:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:13:18] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:13:18] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:13:24] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x6]
+[2020-07-01 17:13:24] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x6]
+[2020-07-01 17:13:27] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:13:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:13:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:13:50] QUIT: NoosBoos left the game [Quit]
+[2020-07-01 17:13:54] CONNECT: NoosBoos connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:13:55] JOIN: NoosBoos joined the game (IP: 197.9.200.6)
+[2020-07-01 17:13:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:14:07] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:14:17] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:14:27] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:14:37] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:14:47] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:14:55] CHAT: NoosBoos: ah
+[2020-07-01 17:14:56] CHAT: NoosBoos: oj
+[2020-07-01 17:14:57] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:15:06] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:15:06] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:15:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:15:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:15:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:15:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:15:44] CHAT: niCe: ahoj
+[2020-07-01 17:15:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:15:52] CHAT: NoosBoos: !team
+[2020-07-01 17:15:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:16:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:16:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:16:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:16:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:16:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:16:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:17:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:17:16] QUIT: niCe left the game [Quit]
+[2020-07-01 17:17:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:17:21] QUIT: NoosBoos left the game [Quit]
+[2020-07-01 17:17:25] CONNECT: niCe connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:17:26] JOIN: niCe joined the game (IP: 192.168.56.1)
+[2020-07-01 17:17:26] CONNECT: NoosBoos connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:17:26] JOIN: NoosBoos joined the game (IP: 197.9.200.6)
+[2020-07-01 17:17:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:17:36] QUIT: Nostalgia left the game [Quit]
+[2020-07-01 17:17:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:17:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:17:56] CONNECT: Nostalgia connected (IP: 82.169.146.55  Serial: 7F2E03F4DA412651CCE5CFD085E78FB4  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:17:57] JOIN: Nostalgia joined the game (IP: 82.169.146.55)
+[2020-07-01 17:17:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:18:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:18:14] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:18:14] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:18:20] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:18:28] restart: Requested by Console
+[2020-07-01 17:18:28] restart: Resource restarting...
+[2020-07-01 17:18:28] Stopping vehicles
+[2020-07-01 17:18:28] Starting vehicles
+[2020-07-01 17:18:28] vehicles restarted successfully
+[2020-07-01 17:18:28] WARNING: vehicles\vehicles.lua:58: dbExec failed; (5) database is locked
+[2020-07-01 17:18:28] WARNING: vehicles\vehicles.lua:58: dbExec failed; (5) database is locked  [DUP x102]
+[2020-07-01 17:18:28] WARNING: vehicles\vehicles.lua:35: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2020-07-01 17:18:28] WARNING: vehicles\vehicles.lua:36: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]
+[2020-07-01 17:18:28] ERROR: vehicles\vehicles.lua:37: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-01 17:18:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:18:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:18:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:18:50] stop: Resource could not be found
+[2020-07-01 17:18:54] stop: Requested by Console
+[2020-07-01 17:18:54] stop: Resource stopping
+[2020-07-01 17:18:54] Stopping vehicles
+[2020-07-01 17:18:54] WARNING: vehicles\vehicles.lua:58: dbExec failed; (5) database is locked
+[2020-07-01 17:18:56] QUIT: NoosBoos left the game [Quit]
+[2020-07-01 17:18:58] WARNING: vehicles\vehicles.lua:58: dbExec failed; (5) database is locked  [DUP x53]
+[2020-07-01 17:18:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:19:01] CONNECT: NoosBoos connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:19:01] JOIN: NoosBoos joined the game (IP: 197.9.200.6)
+[2020-07-01 17:19:07] QUIT: niCe left the game [Quit]
+[2020-07-01 17:19:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:19:11] CONNECT: niCe connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:19:11] JOIN: niCe joined the game (IP: 192.168.56.1)
+[2020-07-01 17:19:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:19:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:19:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:19:40] QUIT: NoosBoos left the game [Quit]
+[2020-07-01 17:19:46] CONNECT: NoosBoos connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:19:46] JOIN: NoosBoos joined the game (IP: 197.9.200.6)
+[2020-07-01 17:19:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:19:52] CHAT: niCe: kill me and ban ahoj
+[2020-07-01 17:19:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:20:03] CHAT: NoosBoos: your mom be like AHOY.. AHOOOOOOOOJ
+[2020-07-01 17:20:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:20:11] start: Requested by Console
+[2020-07-01 17:20:11] Starting vehicles
+[2020-07-01 17:20:11] start: Resource 'vehicles' started
+[2020-07-01 17:20:11] WARNING: vehicles\vehicles.lua:35: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2020-07-01 17:20:11] WARNING: vehicles\vehicles.lua:36: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]
+[2020-07-01 17:20:11] ERROR: vehicles\vehicles.lua:37: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-01 17:20:14] stop: Requested by Console
+[2020-07-01 17:20:14] stop: Resource stopping
+[2020-07-01 17:20:14] Stopping vehicles
+[2020-07-01 17:20:14] WARN: Received excess unoccupied vehicle sync data (99 bytes)[2020-07-01 17:20:14] WARNING: vehicles\vehicles.lua:58: dbExec failed; (5) database is locked
+[2020-07-01 17:20:18] WARNING: vehicles\vehicles.lua:58: dbExec failed; (5) database is locked  [DUP x53]
+[2020-07-01 17:20:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:20:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:20:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:20:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:20:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:21:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:21:11] start: Requested by Console
+[2020-07-01 17:21:11] Starting vehicles
+[2020-07-01 17:21:11] start: Resource 'vehicles' started
+[2020-07-01 17:21:11] WARNING: vehicles\vehicles.lua:35: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2020-07-01 17:21:11] WARNING: vehicles\vehicles.lua:36: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]
+[2020-07-01 17:21:11] ERROR: vehicles\vehicles.lua:37: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-01 17:21:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:21:22] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:21:22] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:21:22] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:21:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:21:33] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:21:33] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:21:33] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:21:38] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:21:48] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:21:58] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:22:08] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:22:13] CONNECT: WorkableWrist0 connected (IP: 217.62.220.188  Serial: 154195CB5DC30D391011D4CFA6E651A2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:22:16] CHAT: NoosBoos: your mom be like AHOY.. AHOOOOOOOO
+[2020-07-01 17:22:18] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:22:21] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:22:21] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:22:21] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:22:24] JOIN: WorkableWrist0 joined the game (IP: 217.62.220.188)
+[2020-07-01 17:22:27] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:22:27] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:22:27] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:22:28] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:22:39] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:22:44] CHAT: NoosBoos: welcome to server
+[2020-07-01 17:22:44] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:45] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:45] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:46] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:46] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:46] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:46] CHAT: NoosBoos: ngiga
+[2020-07-01 17:22:48] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:49] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:49] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:22:49] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:50] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:51] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:52] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:52] CHAT: niCe: ahoj
+[2020-07-01 17:22:52] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:53] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:54] CHAT: WorkableWrist0: bruh
+[2020-07-01 17:22:54] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:55] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:56] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:57] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:58] CHAT: Nostalgia: nigga
+[2020-07-01 17:22:59] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:23:09] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:23:09] CHAT: Nostalgia: nigga
+[2020-07-01 17:23:13] NICK: WorkableWrist0 is now known as Walahi
+[2020-07-01 17:23:17] CHAT: Walahi: ni
+[2020-07-01 17:23:19] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:23:21] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:23:21] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:23:21] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:23:55] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:23:55] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:23:55] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:24:29] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:24:35] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x3]
+[2020-07-01 17:24:35] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x3]
+[2020-07-01 17:24:35] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked  [DUP x3]
+[2020-07-01 17:24:35] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:24:35] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:24:41] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:24:41] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:24:41] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:24:44] QUIT: NoosBoos left the game [Quit]
+[2020-07-01 17:24:50] CONNECT: NoosBoos connected (IP: 197.9.200.6  Serial: 7CA1CF3DB195AF508B3A6A07358116B2  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:24:50] JOIN: NoosBoos joined the game (IP: 197.9.200.6)
+[2020-07-01 17:25:01] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:01] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:01] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:06] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:12] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:12] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:14] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:14] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:14] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:20] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:20] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:20] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:23] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:23] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:23] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:29] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked  [DUP x2]
+[2020-07-01 17:25:29] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x2]
+[2020-07-01 17:25:29] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x2]
+[2020-07-01 17:25:30] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:30] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:30] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:37] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:37] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:37] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:25:47] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:25:53] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:25:53] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:26:07] NICK: Nostalgia is now known as Noah
+[2020-07-01 17:26:22] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:26:22] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:26:22] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:26:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:26:39] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:27:15] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:27:15] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:27:15] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:27:21] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked  [DUP x4]
+[2020-07-01 17:27:21] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]  [DUP x4]
+[2020-07-01 17:27:21] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)  [DUP x4]
+[2020-07-01 17:27:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:27:31] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:27:31] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:27:31] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:27:39] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:27:46] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:27:46] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:27:46] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:27:52] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:27:52] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:27:52] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:28:00] QUIT: niCe left the game [Quit]
+[2020-07-01 17:28:11] CONNECT: niCe connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:28:11] JOIN: niCe joined the game (IP: 192.168.56.1)
+[2020-07-01 17:28:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:28:37] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:28:37] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:28:37] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:28:59] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:29:01] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:29:01] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:29:01] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:29:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:29:39] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:29:49] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:29:57] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:29:57] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:29:57] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:30:03] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:30:03] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:30:03] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:30:03] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:30:09] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:30:16] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:30:16] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:30:16] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:30:19] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:30:21] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:30:24] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:30:24] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:30:24] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:30:24] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:30:24] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:30:29] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:30:29] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:30:29] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:30:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:30:39] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:30:49] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:30:59] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:31:09] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:31:19] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:31:29] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:31:39] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:31:49] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:31:59] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:32:20] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:32:30] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:32:30] QUIT: Noah left the game [Quit]
+[2020-07-01 17:32:40] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:32:43] CONNECT: Noah connected (IP: 82.169.146.55  Serial: 7F2E03F4DA412651CCE5CFD085E78FB4  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:32:44] JOIN: Noah joined the game (IP: 82.169.146.55)
+[2020-07-01 17:32:48] QUIT: niCe left the game [Quit]
+[2020-07-01 17:32:50] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:32:52] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:32:52] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:32:52] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:32:53] CONNECT: niCe connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:32:54] JOIN: niCe joined the game (IP: 192.168.56.1)
+[2020-07-01 17:33:00] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:33:10] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:33:15] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:33:15] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:33:15] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:33:20] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:33:30] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:33:40] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:34:10] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:35:00] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:35:08] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2020-07-01 17:35:08] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:35:08] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:35:13] QUIT: niCe left the game [Quit]
+[2020-07-01 17:35:14] WARNING: vehicles\vehicles.lua:13: Database result uncollected after 5 minutes. [Query: SELECT id FROM vehicles ORDER BY id DESC LIMIT 1]
+[2020-07-01 17:35:20] Server stopped!
+[2020-07-01 17:35:21] Stopping resources.....
+[2020-07-01 17:35:21] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 17:35:21] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 17:35:21] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x93]
+[2020-07-01 17:35:21] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 17:46:55] Resources: 3 loaded, 0 failed
+[2020-07-01 17:46:55] Starting resources......
+[2020-07-01 17:46:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 17:46:55] WARNING: <owner_email_address> not set
+[2020-07-01 17:46:55] Server started and is ready to accept connections!
+[2020-07-01 17:46:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 17:46:55] Type 'help' for a list of commands.
+[2020-07-01 17:46:55] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-01 17:47:03] restart: Requested by Console
+[2020-07-01 17:47:03] restart: Resource restarting...
+[2020-07-01 17:47:03] Stopping vehicles
+[2020-07-01 17:47:03] Starting vehicles
+[2020-07-01 17:47:03] vehicles restarted successfully
+Testing ports...
+Port 22126 UDP is open.
+Port 22003 UDP is open.
+Port 22005 TCP is open.
+[2020-07-01 17:48:15] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-01 17:48:15] CONNECT: niCe connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-01 17:48:19] JOIN: niCe joined the game (IP: 192.168.56.1)
+[2020-07-01 17:48:42] stop: Requested by Console
+[2020-07-01 17:48:42] stop: Resource stopping
+[2020-07-01 17:48:42] Stopping vehicles
+[2020-07-01 17:48:47] start: Requested by Console
+[2020-07-01 17:48:47] Starting vehicles
+[2020-07-01 17:48:47] start: Resource 'vehicles' started
+[2020-07-01 17:50:29] WARNING: vehicles\vehicles.lua:14: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-01 17:50:29] ERROR: vehicles\vehicles.lua:15: attempt to index local 'results' (a boolean value)
+[2020-07-01 17:51:37] ACL: Denied 'niCe' access to command 'start'
+[2020-07-01 17:51:41] ACL: Denied 'niCe' access to command 'start'
+[2020-07-01 17:54:33] QUIT: niCe left the game [Quit]
+[2020-07-01 17:54:54] Server stopped!
+[2020-07-01 17:54:55] Stopping resources.....
+[2020-07-01 17:54:55] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 17:54:55] WARNING: vehicles\vehicles.lua:58: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 17:54:55] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 19:46:36] Resources: 3 loaded, 0 failed
+[2020-07-01 19:46:37] Starting resources......
+[2020-07-01 19:46:37] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 19:46:37] WARNING: <owner_email_address> not set
+[2020-07-01 19:46:37] Server started and is ready to accept connections!
+[2020-07-01 19:46:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 19:46:37] Type 'help' for a list of commands.
+[2020-07-01 19:46:37] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-01 19:46:45] Server stopped!
+[2020-07-01 19:46:46] Stopping resources.....
+[2020-07-01 19:46:46] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 19:46:46] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 19:46:46] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 00:42:32] Resources: 3 loaded, 0 failed
+[2020-07-02 00:42:32] Starting resources......
+[2020-07-02 00:42:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 00:42:32] WARNING: <owner_email_address> not set
+[2020-07-02 00:42:32] Server started and is ready to accept connections!
+[2020-07-02 00:42:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 00:42:32] Type 'help' for a list of commands.
+[2020-07-02 00:42:33] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 00:44:03] Server stopped!
+[2020-07-02 00:44:03] Stopping resources.....
+[2020-07-02 00:44:03] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 00:44:03] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 00:44:03] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-02 00:44:16] Resources: 3 loaded, 0 failed
+[2020-07-02 00:44:16] Starting resources......
+[2020-07-02 00:44:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-02 00:44:16] WARNING: <owner_email_address> not set
+[2020-07-02 00:44:16] Server started and is ready to accept connections!
+[2020-07-02 00:44:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-02 00:44:16] Type 'help' for a list of commands.
+[2020-07-02 00:44:16] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-02 00:44:33] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-02 00:44:33] CONNECT: Soon connected (IP: 82.169.146.55  Serial: 7F2E03F4DA412651CCE5CFD085E78FB4  Version: 1.5.7-9.20582.0)
+[2020-07-02 00:44:38] JOIN: Soon joined the game (IP: 82.169.146.55)
+[2020-07-02 00:45:18] CHAT: Soon: test
+[2020-07-02 00:45:41] CONNECT: PostmanPat connected (IP: 86.135.138.64  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-02 00:45:45] JOIN: PostmanPat joined the game (IP: 86.135.138.64)
+[2020-07-02 00:46:08] stop: Requested by Console
+[2020-07-02 00:46:08] stop: Resource stopping
+[2020-07-02 00:46:08] Stopping vehicles
+[2020-07-02 00:46:10] * Syntax: start <resource-name>
+[2020-07-02 00:46:13] start: Requested by Console
+[2020-07-02 00:46:13] Starting vehicles
+[2020-07-02 00:46:13] start: Resource 'vehicles' started
+[2020-07-02 00:46:46] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 00:46:46] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 00:46:52] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 00:46:52] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 00:49:34] WARNING: vehicles\vehicles.lua:15: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got nil]
+[2020-07-02 00:49:34] ERROR: vehicles\vehicles.lua:16: attempt to index local 'results' (a boolean value)
+[2020-07-02 00:49:38] QUIT: PostmanPat left the game [Quit]
+[2020-07-02 00:49:44] Server stopped!
+[2020-07-02 00:49:44] Stopping resources.....
+[2020-07-02 00:49:44] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-02 00:49:44] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-02 00:49:44] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x3]
+[2020-07-02 00:49:44] Closing SQLite3 database

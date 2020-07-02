@@ -1,0 +1,7 @@
+<settings>
+    <setting name="*freeroam.welcometextonstart" value='[&quot;false&quot;]'></setting>
+    <setting name="*freeroam.spawnmaponstart" value='[&quot;false&quot;]'></setting>
+    <setting name="*freeroam.spawnmapondeath" value='[&quot;false&quot;]'></setting>
+    <setting name="*deathpickups.only_current" value="[false]"></setting>
+    <setting name="admin.ip2cUpdateTime" value="[1593445742]"></setting>
+</settings>
