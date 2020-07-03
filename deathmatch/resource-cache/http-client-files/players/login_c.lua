@@ -16,19 +16,19 @@ local function isPasswordValid(password)
     return type(password) == 'string' and string.len(password) > 1
 end
 
+
 addEvent('login-menu:open', true)
 addEventHandler('login-menu:open', root, function ()
-    -- fade their camera in
+        -- fade their camera in
     setCameraMatrix (0, 0, 100, 0, 100, 50)
     fadeCamera(true)
-
     -- initialize the cursor
     showCursor(true, true)
     guiSetInputMode('no_binds')
 
     -- open our menu
     local x, y, width, height = getWindowPosition(400, 230)
-    window = guiCreateWindow(x, y, width, height, 'Login to Our Server', false)
+    window = guiCreateWindow(x, y, width, height, 'Login to San Andreas Rewritten', false)
     guiWindowSetMovable(window, false)
     guiWindowSetSizable(window, false)
 
@@ -81,7 +81,14 @@ addEventHandler('login-menu:open', root, function ()
     end, false)
 
     local registerButton = guiCreateButton(10, 190, width - 20, 30, 'Sign Up', false, window)
+    addEventHandler('onClientGUIClick', loginButton, function (button, state)
+        if button ~= 'left' or state ~= 'up' then
+            return
+        end
 
+        triggerEvent('login-menu:close', localPlayer)
+        triggerEvent('register-menu:open', localPlayer)
+    end, false)
 end, true)
 
 addEvent('login-menu:close', true)

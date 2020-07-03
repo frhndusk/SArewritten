@@ -1,15 +1,14 @@
 local MINIMUM_PASSWORD_LENGTH = 6
 
+local player = source
+
 local function isPasswordValid(password)
     return string.len(password) >= MINIMUM_PASSWORD_LENGTH
 end
 
 -- create an account
-addCommandHandler('register', function (player, command, username, password)
-    if not username or not password then
-        return outputChatBox('SYNTAX: /' .. command .. ' [username] [password]', player, 255, 255, 255)
-    end
-
+addEvent('auth:register-attempt', true)
+addEventHandler('auth:register-attempt', root, function (username, password)
     -- check if an account with that username already exists
     if getAccount(username) then
         return outputChatBox('An account already exists with that name.', player, 255, 100, 100)
@@ -26,10 +25,14 @@ addCommandHandler('register', function (player, command, username, password)
         local account = addAccount(username, hashedPassword)
         setAccountData(account, 'hashed_password', hashedPassword)
 
-        -- let the user know of our success
-        outputChatBox('Your account has been successfully created! You may now login with /accountLogin', player, 100, 255, 100)
+        -- automatically login and spawn the player.
+        logIn(player, account, hashedPassword)
+        spawnPlayer(player, 0, 0, 10)
+        setCameraTarget(player, player)
+    
+        return triggerClientEvent(player, 'register:menu:close', player)
     end)
-end, false, false)
+end)
 
 -- login to their account
 addEvent('auth:login-attempt', true)
@@ -40,7 +43,7 @@ addEventHandler('auth:login-attempt', root, function (username, password)
     end
 
     local hashedPassword = getAccountData(account, 'hashed_password')
-    local player = source
+    
     passwordVerify(password, hashedPassword, function (isValid)
         if not isValid then
             return outputChatBox('No such account could be found with that username or password.', player, 255, 100, 100)
@@ -58,6 +61,6 @@ addEventHandler('auth:login-attempt', root, function (username, password)
 end)
 
 -- logout of their account
-addCommandHandler('accountLogout', function (player)
-    logOut(player)
-end)
+--addCommandHandler('accountLogout', function (player)
+ --   logOut(player)
+--end)

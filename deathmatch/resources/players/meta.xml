@@ -3,5 +3,5 @@
     <script src="authentication.lua" type="server"/>
     
     <script src="login_c.lua" type ="client"/>
-    
+    <script src="register_c.lua" type ="client"/>
 </meta>

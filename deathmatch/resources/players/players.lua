@@ -9,7 +9,7 @@ end, false, false)
 
 addEventHandler('onPlayerJoin', root, function ()
 
-triggerClientEvent(source, 'login-menu:open', source)
-
-
+    triggerClientEvent(source, 'fade:camera', source)
+    triggerClientEvent(source, 'login-menu:open', source)
+    
 end)

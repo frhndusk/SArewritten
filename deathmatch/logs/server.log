@@ -3395,3 +3395,203 @@ Port 22005 TCP is open.
 [2020-07-03 00:39:39] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
 [2020-07-03 00:39:39] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
 [2020-07-03 00:39:39] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-03 15:40:36] Resources: 4 loaded, 0 failed
+[2020-07-03 15:40:36] Starting resources.....
+[2020-07-03 15:40:36] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 15:40:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-03 15:40:36] WARNING: <owner_email_address> not set
+[2020-07-03 15:40:36] Server started and is ready to accept connections!
+[2020-07-03 15:40:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-03 15:40:36] Type 'help' for a list of commands.
+[2020-07-03 15:40:36] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-03 15:41:42] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-03 15:41:42] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 15:41:58] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 15:42:14] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 15:43:45] Server stopped!
+[2020-07-03 15:43:45] Stopping resources......
+[2020-07-03 15:43:45] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 15:43:45] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 15:43:45] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 15:43:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-03 15:47:36] Resources: 4 loaded, 0 failed
+[2020-07-03 15:47:36] Starting resources.....
+[2020-07-03 15:47:36] WARNING: players\authentication.lua:9: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 15:47:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-03 15:47:36] WARNING: <owner_email_address> not set
+[2020-07-03 15:47:36] Server started and is ready to accept connections!
+[2020-07-03 15:47:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-03 15:47:36] Type 'help' for a list of commands.
+[2020-07-03 15:47:36] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-03 15:48:16] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-03 15:48:16] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 15:48:20] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 15:48:23] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 15:48:29] Server stopped!
+[2020-07-03 15:48:30] Stopping resources......
+[2020-07-03 15:48:30] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 15:48:30] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 15:48:30] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 15:48:30] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-03 16:11:21] Resources: 4 loaded, 0 failed
+[2020-07-03 16:11:21] Starting resources.....
+[2020-07-03 16:11:22] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:11:22] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-03 16:11:22] WARNING: <owner_email_address> not set
+[2020-07-03 16:11:22] Server started and is ready to accept connections!
+[2020-07-03 16:11:22] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-03 16:11:22] Type 'help' for a list of commands.
+[2020-07-03 16:11:22] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-03 16:12:00] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-03 16:12:00] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 16:12:05] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 16:12:05] WARNING: players\players.lua:11: Bad argument @ 'fadeCamera' [Expected element at argument 1, got boolean]
+[2020-07-03 16:12:10] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 16:16:00] Server stopped!
+[2020-07-03 16:16:00] Stopping resources......
+[2020-07-03 16:16:00] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 16:16:00] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 16:16:00] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 16:16:00] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-03 16:17:17] Resources: 4 loaded, 0 failed
+[2020-07-03 16:17:17] Starting resources.....
+[2020-07-03 16:17:18] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:17:18] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-03 16:17:18] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-03 16:17:18] WARNING: <owner_email_address> not set
+[2020-07-03 16:17:18] Server started and is ready to accept connections!
+[2020-07-03 16:17:18] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-03 16:17:18] Type 'help' for a list of commands.
+[2020-07-03 16:17:24] Server stopped!
+[2020-07-03 16:17:24] Stopping resources......
+[2020-07-03 16:17:24] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 16:17:24] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 16:17:25] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 16:17:25] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : [EN]San Andreas Rewritten
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..tten/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-03 16:23:08] Resources: 4 loaded, 0 failed
+[2020-07-03 16:23:08] Starting resources.....
+[2020-07-03 16:23:08] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:23:08] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-03 16:23:08] WARNING: <owner_email_address> not set
+[2020-07-03 16:23:08] Server started and is ready to accept connections!
+[2020-07-03 16:23:08] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-03 16:23:08] Type 'help' for a list of commands.
+[2020-07-03 16:23:08] Querying MTA master server... success! (Auto detected IP:86.135.138.64)
+[2020-07-03 16:23:16] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-03 16:23:16] CONNECT: PostmanPat connected (IP: 192.168.56.1  Serial: CB8CA69F8B569DCCA80D1E4C959C46B3  Version: 1.5.7-9.20582.0)
+[2020-07-03 16:23:20] JOIN: PostmanPat joined the game (IP: 192.168.56.1)
+[2020-07-03 16:23:27] QUIT: PostmanPat left the game [Quit]
+[2020-07-03 16:23:54] restart: Requested by Console
+[2020-07-03 16:23:54] restart: Resource restarting...
+[2020-07-03 16:23:54] Stopping players
+[2020-07-03 16:23:54] Resource 'players' changed, reloading and starting
+[2020-07-03 16:23:54] Starting players
+[2020-07-03 16:23:54] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:23:54] players restarted successfully
+[2020-07-03 16:24:43] restart: Resource could not be found
+[2020-07-03 16:24:46] restart: Requested by Console
+[2020-07-03 16:24:46] restart: Resource restarting...
+[2020-07-03 16:24:46] Stopping players
+[2020-07-03 16:24:46] Resource 'players' changed, reloading and starting
+[2020-07-03 16:24:46] Starting players
+[2020-07-03 16:24:46] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:24:46] players restarted successfully
+[2020-07-03 16:25:23] restart: Requested by Console
+[2020-07-03 16:25:23] restart: Resource restarting...
+[2020-07-03 16:25:23] Stopping players
+[2020-07-03 16:25:23] Resource 'players' changed, reloading and starting
+[2020-07-03 16:25:23] Starting players
+[2020-07-03 16:25:23] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:25:23] players restarted successfully
+[2020-07-03 16:26:08] restart: Requested by Console
+[2020-07-03 16:26:08] restart: Resource restarting...
+[2020-07-03 16:26:08] Stopping players
+[2020-07-03 16:26:08] Resource 'players' changed, reloading and starting
+[2020-07-03 16:26:08] Starting players
+[2020-07-03 16:26:08] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:26:08] players restarted successfully
+[2020-07-03 16:27:44] restart: Resource could not be found
+[2020-07-03 16:27:47] restart: Requested by Console
+[2020-07-03 16:27:47] restart: Resource restarting...
+[2020-07-03 16:27:47] Stopping players
+[2020-07-03 16:27:47] Resource 'players' changed, reloading and starting
+[2020-07-03 16:27:47] Starting players
+[2020-07-03 16:27:47] WARNING: players\authentication.lua:11: Bad argument @ 'addEventHandler' [Expected element at argument 2, got function]
+[2020-07-03 16:27:47] players restarted successfully
+[2020-07-03 16:32:31] restart: Requested by Console
+[2020-07-03 16:32:31] restart: Resource restarting...
+[2020-07-03 16:32:31] Stopping players
+[2020-07-03 16:32:31] Resource 'players' changed, reloading and starting
+[2020-07-03 16:32:31] Starting players
+[2020-07-03 16:32:31] players restarted successfully
+[2020-07-03 16:43:42] Server stopped!
+[2020-07-03 16:43:42] Stopping resources......
+[2020-07-03 16:43:42] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-03 16:43:42] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-03 16:43:42] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x7]
+[2020-07-03 16:43:42] Closing SQLite3 database
