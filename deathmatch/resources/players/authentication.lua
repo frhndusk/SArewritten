@@ -1,7 +1,5 @@
 local MINIMUM_PASSWORD_LENGTH = 6
 
-local player = source
-
 local function isPasswordValid(password)
     return string.len(password) >= MINIMUM_PASSWORD_LENGTH
 end
@@ -43,7 +41,8 @@ addEventHandler('auth:login-attempt', root, function (username, password)
     end
 
     local hashedPassword = getAccountData(account, 'hashed_password')
-    
+    local player = source
+
     passwordVerify(password, hashedPassword, function (isValid)
         if not isValid then
             return outputChatBox('No such account could be found with that username or password.', player, 255, 100, 100)

@@ -7,9 +7,9 @@ addCommandHandler('clearchat', function (player)
     end
 end, false, false)
 
+addEvent('onPlayerJoin', true)
 addEventHandler('onPlayerJoin', root, function ()
 
-    triggerClientEvent(source, 'fade:camera', source)
     triggerClientEvent(source, 'login-menu:open', source)
     
 end)

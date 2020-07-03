@@ -1,4 +1,4 @@
-local window
+local regwindow
 
 local function getWindowPosition(width, height)
     local screenWidth, screenHeight = guiGetScreenSize()
@@ -19,43 +19,46 @@ end
 
 addEvent('register-menu:open', true)
 addEventHandler('register-menu:open', root, function ()
+    --fadecamera part two
+    --setCameraMatrix (0, 0, 100, 0, 100, 50)
+    --fadeCamera(true)
     --initialize cursor and freeze binds
     showCursor(true, true)
     guiSetInputMode('no binds')
 
     --menu design
-    local x, y, width, height = getWindowPosition(400, 230)
-    window = guiCreateWindow(x, y, width, height, 'Login to San Andreas Rewritten', false)
-    guiWindowSetMovable(window, false)
-    guiWindowSetSizable(window, false)
+    local x, y, width, height = getWindowPosition(400, 250)
+    regwindow = guiCreateWindow(x, y, width, height, 'Register to San Andreas Rewritten', false)
+    guiWindowSetMovable(regwindow, false)
+    guiWindowSetSizable(regwindow, false)
 
-    local usernameLabel = guiCreateLabel(15, 30, width - 30, 20, 'Username:', false, window)
+    local usernameLabel = guiCreateLabel(15, 30, width - 30, 20, 'Username:', false, regwindow)
 
-    local usernameErrorLabel = guiCreateLabel(width - 130, 30, 140, 20, 'Username is required', false, window)
+    local usernameErrorLabel = guiCreateLabel(width - 130, 30, 140, 20, 'Username is required', false, regwindow)
     guiLabelSetColor(usernameErrorLabel, 255, 100, 100)
     guiSetVisible(usernameErrorLabel, false)
 
-    local usernameInput = guiCreateEdit(10, 50, width - 20, 30, '', false, window)
+    local usernameInput = guiCreateEdit(10, 50, width - 20, 30, '', false, regwindow)
 
-    local passwordLabel = guiCreateLabel(15, 90, width - 30, 20, 'Password:', false, window)
+    local passwordLabel = guiCreateLabel(15, 90, width - 30, 20, 'Password:', false, regwindow)
 
-    local passwordErrorLabel = guiCreateLabel(width - 125, 90, 140, 20, 'Password is required', false, window)
+    local passwordErrorLabel = guiCreateLabel(width - 125, 90, 140, 20, 'Password is required', false, regwindow)
     guiLabelSetColor(passwordErrorLabel, 255, 100, 100)
     guiSetVisible(passwordErrorLabel, false)
 
-    local passwordInput = guiCreateEdit(10, 110, width - 20, 30, '', false, window)
+    local passwordInput = guiCreateEdit(10, 110, width - 20, 30, '', false, regwindow)
     guiEditSetMasked(passwordInput, true)
 
-    local passwordConfirmLabel = guiCreateLabel(15, 150, width - 30, 20, 'Confirm Password:', false, window)
+    local passwordConfirmLabel = guiCreateLabel(15, 150, width - 30, 20, 'Confirm Password:', false, regwindow)
 
-    local passwordConfirmErrorLabel = guiCreateLabel(width - 130, 150, 140, 20, 'Password needs to match!', false, window)
+    local passwordConfirmErrorLabel = guiCreateLabel(width - 130, 150, 140, 20, 'Password needs to match!', false, regwindow)
     guiLabelSetColor(passwordConfirmErrorLabel, 255, 100, 100)
     guiSetVisible(passwordConfirmErrorLabel, false)
     
-    local passwordConfirmInput = guiCreateEdit(10, 170, width - 20, 30, '', false, window)
+    local passwordConfirmInput = guiCreateEdit(10, 170, width - 20, 30, '', false, regwindow)
     guiEditSetMasked(passwordConfirmInput, true)
 
-    local registerButton = guiCreateButton(10, 190, width - 20, 30, 'Login', false, window)
+    local registerButton = guiCreateButton(10, 190, width - 20, 30, 'Sign Up', false, regwindow)
     addEventHandler('onClientGUIClick', registerButton, function (button, state)
         if button ~= 'left' or state ~= 'up' then
             return
@@ -94,7 +97,7 @@ addEventHandler('register-menu:open', root, function ()
         triggerServerEvent('auth:register-attempt', localPlayer, username, password)
     end, false)
 
-    local cancelButton = guiCreateButton(10, 210, width - 20, 30, 'Cancel', false, window)
+    local cancelButton = guiCreateButton(10, 210, width - 20, 30, 'Cancel', false, regwindow)
     addEventHandler('onClientGUIClick', cancelButton, function (button, state)
         if button ~= 'left' or state ~= 'up' then
             return
@@ -103,10 +106,11 @@ addEventHandler('register-menu:open', root, function ()
         triggerEvent('register-menu:close', localPlayer)
         triggerEvent('login-menu:open', localPlayer)
     end, false)
+end, true)
 
 addEvent('register-menu:close', true)
 addEventHandler('register-menu:close', root, function ()
-    destroyElement(window)
+    destroyElement(regwindow)
     showCursor(false)
     guiSetInputMode('allow_binds')
 end) 
@@ -122,11 +126,3 @@ end)
 
 
 
-
-
-
-
-
-
-
-)
